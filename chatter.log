@@ -1,0 +1,802 @@
+2020-11-26 20:40:22,861 - INFO: Sesión iniciada por Omar.
+2020-11-26 20:40:22,862 - INFO: Buscando puerto disponible para conexión.
+2020-11-26 20:40:22,884 - INFO: Puerto 40800 encontrado.
+2020-11-26 20:42:31,243 - INFO: Sesión iniciada por Omar.
+2020-11-26 20:42:31,243 - INFO: Buscando puerto disponible para conexión.
+2020-11-26 20:42:31,260 - INFO: Puerto 40800 encontrado.
+2020-11-26 20:42:44,684 - INFO: Sesión iniciada por Fer.
+2020-11-26 20:42:44,684 - INFO: Buscando puerto disponible para conexión.
+2020-11-26 20:42:44,702 - INFO: Puerto 40800 encontrado.
+2020-11-26 21:06:01,112 - INFO: Usuario Omar: Sesión iniciada.
+2020-11-26 21:06:01,113 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-11-26 21:06:01,132 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-11-26 21:06:01,132 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-11-26 21:07:58,673 - INFO: Usuario Omar: Sesión iniciada.
+2020-11-26 21:07:58,674 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-11-26 21:07:58,693 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-11-26 21:07:58,693 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-11-26 21:07:58,694 - INFO: Usuario Omar: Conexión establecida, esperando comunicación.
+2020-11-26 21:19:17,310 - INFO: Usuario Omar: Sesión iniciada.
+2020-11-26 21:19:17,310 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-11-26 21:19:17,326 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-11-26 21:19:17,326 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-11-26 21:19:17,327 - INFO: Usuario Omar: Conexión establecida, esperando comunicación.
+2020-11-26 21:26:04,460 - INFO: Usuario Omar: Sesión iniciada.
+2020-11-26 21:26:04,461 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-11-26 21:26:04,481 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-11-26 21:26:04,482 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-11-26 21:26:04,482 - INFO: Usuario Omar: Conexión establecida, esperando comunicación.
+2020-11-26 21:28:57,152 - INFO: Usuario Omar: Sesión iniciada.
+2020-11-26 21:28:57,153 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-11-26 21:28:57,174 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-11-26 21:28:57,174 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-11-26 21:28:57,174 - INFO: Usuario Omar: Conexión establecida, esperando comunicación.
+2020-11-26 21:32:17,818 - INFO: Usuario Omar: Sesión iniciada.
+2020-11-26 21:32:17,819 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-11-26 21:32:17,837 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-11-26 21:32:17,838 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-11-26 21:33:15,611 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-26 21:33:15,611 - INFO: Usuario Fer: Buscando puerto disponible para conexión.
+2020-11-26 21:33:15,641 - INFO: Usuario Fer: Puerto 40801 encontrado.
+2020-11-26 21:33:15,641 - INFO: Usuario Fer: Estableciendo la conexión socket.
+2020-11-26 21:47:40,462 - INFO: Usuario Omar: Sesión iniciada.
+2020-11-26 21:48:01,612 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-11-26 21:48:54,840 - INFO: Usuario Omar: Sesión iniciada.
+2020-11-26 21:48:56,286 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-11-26 21:48:56,286 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-11-26 21:48:56,302 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-11-26 21:50:41,938 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-26 21:50:43,208 - INFO: Usuario Fer: Estableciendo la conexión socket.
+2020-11-26 21:50:43,208 - INFO: Usuario Fer: Buscando puerto disponible para conexión.
+2020-11-26 21:50:43,244 - INFO: Usuario Fer: Puerto 40801 encontrado.
+2020-11-26 22:04:28,108 - INFO: Usuario Omar: Sesión iniciada.
+2020-11-26 22:04:31,128 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-11-26 22:04:31,129 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-11-26 22:04:31,147 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-11-26 22:04:31,147 - INFO: Usuario Omar: Conexión establecida, esperando comunicación.
+2020-11-26 22:04:47,655 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-26 22:05:13,958 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-26 22:14:15,109 - INFO: Usuario Mario: Sesión iniciada.
+2020-11-26 22:14:17,727 - INFO: Usuario Mario: Estableciendo la conexión socket.
+2020-11-26 22:14:17,727 - INFO: Usuario Mario: Buscando puerto disponible para conexión.
+2020-11-26 22:14:17,760 - INFO: Usuario Mario: Puerto 40801 encontrado.
+2020-11-26 22:14:17,760 - INFO: Usuario Mario: Conexión establecida, esperando comunicación.
+2020-11-26 22:18:18,193 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-26 22:19:56,030 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-26 22:20:52,653 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-26 23:11:50,789 - INFO: Usuario Omar: Sesión iniciada.
+2020-11-26 23:11:53,248 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-11-26 23:11:53,249 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-11-26 23:11:53,265 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-11-26 23:11:53,266 - INFO: Usuario Omar: Conexión establecida, esperando comunicación.
+2020-11-26 23:12:01,708 - INFO: Usuario Brenda: Sesión iniciada.
+2020-11-26 23:12:03,409 - INFO: Usuario Brenda: Estableciendo la conexión socket.
+2020-11-26 23:12:03,410 - INFO: Usuario Brenda: Buscando puerto disponible para conexión.
+2020-11-26 23:12:03,447 - INFO: Usuario Brenda: Puerto 40801 encontrado.
+2020-11-26 23:12:03,447 - INFO: Usuario Brenda: Conexión establecida, esperando comunicación.
+2020-11-26 23:12:16,223 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-26 23:12:48,635 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-26 23:14:38,273 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-26 23:19:10,929 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-26 23:19:12,345 - INFO: Usuario Fer: Buscando contactos.
+2020-11-26 23:19:28,226 - INFO: Usuario Fer: Buscando contacto.
+2020-11-26 23:19:28,247 - INFO: Usuario Fer: Conectando con 40800.
+2020-11-26 23:20:02,159 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-26 23:20:07,390 - INFO: Usuario Fer: Buscando contactos.
+2020-11-26 23:20:11,892 - INFO: Usuario Fer: Buscando contacto.
+2020-11-26 23:20:11,909 - INFO: Usuario Fer: Conectando con 40800.
+2020-11-26 23:20:57,127 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-26 23:20:58,624 - INFO: Usuario Fer: Buscando contactos.
+2020-11-26 23:21:05,490 - INFO: Usuario Fer: Buscando contacto.
+2020-11-26 23:21:05,509 - INFO: Usuario Fer: Conectando con 40800.
+2020-11-26 23:21:28,361 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-26 23:21:29,906 - INFO: Usuario Fer: Buscando contactos.
+2020-11-26 23:21:34,459 - INFO: Usuario Fer: Buscando contacto.
+2020-11-26 23:21:34,475 - INFO: Usuario Fer: Conectando con 40800.
+2020-11-26 23:21:34,475 - INFO: Usuario Fer: Conectado con puerto 40800.
+2020-11-26 23:21:45,043 - INFO: Usuario Fer: Ha enviado un mensaje.
+2020-11-26 23:21:55,209 - INFO: Usuario Omar: Ha enviado un mensaje.
+2020-11-26 23:22:09,005 - INFO: Usuario Fer: Ha enviado un mensaje.
+2020-11-26 23:23:06,773 - INFO: Usuario Omar: Ha dejado la conversación.
+2020-11-26 23:24:40,737 - INFO: Usuario Omar: Sesión iniciada.
+2020-11-26 23:24:48,483 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-11-26 23:24:48,484 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-11-26 23:24:48,501 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-11-26 23:24:48,502 - INFO: Usuario Omar: Conexión establecida, esperando comunicación.
+2020-11-26 23:25:03,053 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-26 23:25:05,100 - INFO: Usuario Fer: Buscando contactos.
+2020-11-26 23:25:10,268 - INFO: Usuario Fer: Buscando contacto.
+2020-11-26 23:25:10,273 - INFO: Usuario Fer: Conectando con                                 print("Usuario: Ha finalizado la conversación.").
+2020-11-26 23:25:24,864 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-26 23:25:30,511 - INFO: Usuario Fer: Buscando contactos.
+2020-11-26 23:25:37,427 - INFO: Usuario Fer: Buscando contacto.
+2020-11-26 23:25:37,449 - INFO: Usuario Fer: Conectando con 40800.
+2020-11-26 23:25:37,450 - INFO: Usuario Fer: Conectado con puerto 40800.
+2020-11-26 23:25:43,995 - INFO: Usuario Fer: Ha enviado un mensaje.
+2020-11-26 23:25:49,728 - INFO: Usuario Omar: Ha enviado un mensaje.
+2020-11-26 23:25:57,926 - INFO: Usuario Fer: Ha enviado un mensaje.
+2020-11-26 23:26:13,096 - INFO: Usuario Omar: Ha enviado un mensaje.
+2020-11-26 23:26:23,296 - INFO: Usuario Fer: Ha dejado la conversación.
+2020-11-26 23:47:24,950 - INFO: Usuario Omar: Sesión iniciada.
+2020-11-26 23:47:24,951 - INFO: Usuario Omar: Iniciando generación de llaves.
+2020-11-26 23:47:24,954 - INFO: Usuario Omar: Llaves pública y privadas creadas.
+2020-11-27 00:09:26,187 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-11-27 00:09:26,188 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-11-27 00:09:26,211 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-11-27 00:09:26,211 - INFO: Usuario Omar: Sesión establecida, esperando comunicación.
+2020-11-27 00:09:35,285 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-27 00:09:35,285 - INFO: Usuario Fer: Iniciando generación de llaves.
+2020-11-27 00:11:35,926 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-27 00:11:35,926 - INFO: Usuario Fer: Iniciando generación de llaves.
+2020-11-27 00:11:35,930 - INFO: Usuario Fer: Llave pública y privada creadas.
+2020-11-27 00:11:38,864 - INFO: Usuario Fer: Buscando contactos.
+2020-11-27 00:11:46,852 - INFO: Usuario Fer: Buscando contacto.
+2020-11-27 00:11:46,873 - INFO: Usuario Fer: Conectando con 40800.
+2020-11-27 00:11:46,874 - INFO: Usuario Fer: Conectado con puerto 40800.
+2020-11-27 00:12:39,359 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-27 00:12:39,359 - INFO: Usuario Fer: Iniciando generación de llaves.
+2020-11-27 00:12:39,362 - INFO: Usuario Fer: Llave pública y privada creadas.
+2020-11-27 00:12:41,863 - INFO: Usuario Fer: Buscando contactos.
+2020-11-27 00:12:55,539 - INFO: Usuario Fer: Buscando contactos.
+2020-11-27 00:12:59,651 - INFO: Usuario Fer: Buscando contacto.
+2020-11-27 00:12:59,673 - INFO: Usuario Fer: Conectando con 40800.
+2020-11-27 00:12:59,674 - INFO: Usuario Fer: Conectado con puerto 40800.
+2020-11-27 00:33:37,712 - INFO: Usuario Fer: Ha dejado la conversación.
+2020-11-27 00:33:46,340 - INFO: Usuario Omar: Ha dejado la conversación.
+2020-11-27 00:34:01,062 - INFO: Usuario Omar: Sesión iniciada.
+2020-11-27 00:34:01,062 - INFO: Usuario Omar: Iniciando generación de llaves.
+2020-11-27 00:34:01,065 - INFO: Usuario Omar: Llave pública y privada creadas.
+2020-11-27 00:34:02,525 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-11-27 00:34:02,526 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-11-27 00:34:02,548 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-11-27 00:34:02,548 - INFO: Usuario Omar: Sesión establecida, esperando comunicación.
+2020-11-27 00:34:10,412 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-27 00:34:10,412 - INFO: Usuario Fer: Iniciando generación de llaves.
+2020-11-27 00:34:10,415 - INFO: Usuario Fer: Llave pública y privada creadas.
+2020-11-27 00:34:12,004 - INFO: Usuario Fer: Buscando contactos.
+2020-11-27 00:34:18,573 - INFO: Usuario Fer: Buscando contacto.
+2020-11-27 00:34:18,595 - INFO: Usuario Fer: Conectando con 40800.
+2020-11-27 00:34:51,457 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-27 00:34:51,457 - INFO: Usuario Fer: Iniciando generación de llaves.
+2020-11-27 00:34:51,460 - INFO: Usuario Fer: Llave pública y privada creadas.
+2020-11-27 00:34:53,092 - INFO: Usuario Fer: Buscando contactos.
+2020-11-27 00:34:58,432 - INFO: Usuario Fer: Buscando contacto.
+2020-11-27 00:34:58,451 - INFO: Usuario Fer: Conectando con 40800.
+2020-11-27 00:34:58,452 - INFO: Usuario Fer: Conectado con puerto 40800.
+2020-11-27 00:34:58,453 - INFO: Usuario Omar: Ingresando llave pública de Fer.
+2020-11-27 00:34:58,453 - INFO: Usuario Omar: Llave pública agregada con éxito.
+2020-11-27 00:40:41,524 - INFO: Usuario Fer: Ha enviado un mensaje.
+2020-11-27 00:40:41,524 - INFO: Usuario Omar: Ha dejado la conversación.
+2020-11-27 00:41:01,203 - INFO: Usuario Omar: Sesión iniciada.
+2020-11-27 00:41:01,204 - INFO: Usuario Omar: Iniciando generación de llaves.
+2020-11-27 00:41:01,207 - INFO: Usuario Omar: Llave pública y privada creadas.
+2020-11-27 00:41:03,121 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-11-27 00:41:03,122 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-11-27 00:41:03,191 - INFO: Usuario Omar: Puerto 40802 encontrado.
+2020-11-27 00:41:03,193 - INFO: Usuario Omar: Sesión establecida, esperando comunicación.
+2020-11-27 00:41:12,528 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-27 00:41:12,528 - INFO: Usuario Fer: Iniciando generación de llaves.
+2020-11-27 00:41:12,531 - INFO: Usuario Fer: Llave pública y privada creadas.
+2020-11-27 00:41:14,543 - INFO: Usuario Fer: Buscando contactos.
+2020-11-27 00:41:30,389 - INFO: Usuario Fer: Buscando contacto.
+2020-11-27 00:41:30,411 - INFO: Usuario Fer: Conectando con 40802.
+2020-11-27 00:41:30,411 - INFO: Usuario Fer: Conectado con puerto 40802.
+2020-11-27 00:41:30,412 - INFO: Usuario Omar: Ingresando llave pública de Fer.
+2020-11-27 00:41:30,412 - INFO: Usuario Omar: Llave pública agregada con éxito.
+2020-11-27 00:41:30,413 - INFO: Usuario Fer: Ingresando llave pública de Omar.
+2020-11-27 00:41:30,413 - INFO: Usuario Fer: Llave pública agregada con éxito.
+2020-11-27 00:42:06,221 - INFO: Usuario Fer: Ha enviado un mensaje.
+2020-11-27 00:42:12,988 - INFO: Usuario Omar: Ha enviado un mensaje.
+2020-11-27 00:51:20,224 - INFO: Usuario Fer: Ha dejado la conversación.
+2020-11-27 00:51:32,951 - INFO: Usuario Omar: Sesión iniciada.
+2020-11-27 00:51:32,951 - INFO: Usuario Omar: Iniciando generación de llaves.
+2020-11-27 00:51:32,955 - INFO: Usuario Omar: Llave pública y privada creadas.
+2020-11-27 00:51:34,439 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-11-27 00:51:34,439 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-11-27 00:51:34,462 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-11-27 00:51:34,463 - INFO: Usuario Omar: Sesión establecida, esperando comunicación.
+2020-11-27 00:51:41,465 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-27 00:51:41,466 - INFO: Usuario Fer: Iniciando generación de llaves.
+2020-11-27 00:51:41,470 - INFO: Usuario Fer: Llave pública y privada creadas.
+2020-11-27 00:51:42,725 - INFO: Usuario Fer: Buscando contactos.
+2020-11-27 00:52:09,893 - INFO: Usuario Fer: Buscando contacto.
+2020-11-27 00:52:09,914 - INFO: Usuario Fer: Conectando con Y.
+2020-11-27 00:52:24,038 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-27 00:52:24,038 - INFO: Usuario Fer: Iniciando generación de llaves.
+2020-11-27 00:52:24,041 - INFO: Usuario Fer: Llave pública y privada creadas.
+2020-11-27 00:52:26,846 - INFO: Usuario Fer: Buscando contactos.
+2020-11-27 00:52:32,071 - INFO: Usuario Fer: Buscando contacto.
+2020-11-27 00:52:32,090 - INFO: Usuario Fer: Conectando con 40800.
+2020-11-27 00:52:32,091 - INFO: Usuario Fer: Conectado con puerto 40800.
+2020-11-27 00:52:32,091 - INFO: Usuario Omar: Ingresando llave pública de Fer.
+2020-11-27 00:52:32,092 - INFO: Usuario Omar: Llave pública agregada con éxito.
+2020-11-27 00:52:32,092 - INFO: Usuario Omar: Ha realizado intercambio de llaves con Fer.
+2020-11-27 00:52:32,092 - INFO: Usuario Fer: Ingresando llave pública de Omar.
+2020-11-27 00:52:32,092 - INFO: Usuario Fer: Llave pública agregada con éxito.
+2020-11-27 00:52:32,092 - INFO: Usuario Fer: Ha realizado intercambio de llaves con Omar.
+2020-11-27 00:52:58,707 - INFO: Usuario Fer: Ha enviado un mensaje a Omar.
+2020-11-27 00:55:09,480 - INFO: Usuario Omar: Ha enviado un mensaje a Fer.
+2020-11-27 00:55:34,359 - INFO: Usuario Fer: Ha enviado un mensaje a Omar.
+2020-11-27 00:55:44,490 - INFO: Usuario Omar: Ha enviado un mensaje a Fer.
+2020-11-27 00:55:59,310 - INFO: Usuario Fer: Ha dejado la conversación.
+2020-11-27 01:12:47,726 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-11-27 01:12:47,726 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-11-27 01:12:47,748 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-11-27 01:12:47,748 - INFO: Usuario Omar: Sesión establecida, esperando comunicación.
+2020-11-27 01:12:56,050 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-27 01:12:56,050 - INFO: Usuario Fer: Iniciando generación de llaves.
+2020-11-27 01:12:56,053 - INFO: Usuario Fer: Llave pública y privada creadas.
+2020-11-27 01:12:57,305 - INFO: Usuario Fer: Buscando contactos.
+2020-11-27 01:13:02,179 - INFO: Usuario Fer: Buscando contacto.
+2020-11-27 01:13:02,200 - INFO: Usuario Fer: Conectando con 40800.
+2020-11-27 01:13:02,200 - INFO: Usuario Fer: Conectado con puerto 40800.
+2020-11-27 01:13:02,201 - INFO: Usuario Omar: Ingresando llave pública de Fer.
+2020-11-27 01:13:02,201 - INFO: Usuario Omar: Llave pública agregada con éxito.
+2020-11-27 01:13:02,201 - INFO: Usuario Omar: Ha realizado intercambio de llaves con Fer.
+2020-11-27 01:13:02,202 - INFO: Usuario Fer: Ingresando llave pública de Omar.
+2020-11-27 01:13:02,202 - INFO: Usuario Fer: Llave pública agregada con éxito.
+2020-11-27 01:13:02,202 - INFO: Usuario Fer: Ha realizado intercambio de llaves con Omar.
+2020-11-27 01:13:11,812 - INFO: Usuario Fer: Ha enviado un mensaje a Omar.
+2020-11-27 01:13:11,812 - INFO: Usuario Fer: Está cifrando un mensaje.
+2020-11-27 01:13:11,812 - INFO: Usuario Fer: Llave pública de Omar en el llavero personal.
+2020-11-27 01:13:11,822 - INFO: Usuario Fer: Mensaje cifrado: b"\x04~*\xb96&\x8d\x18`\xe8\x8d\xab}\x13\xa3\xc2\r\x15{\xf4O\xe1\x9d\xda\x81\xf1\x10-'K\x1a\xc2\x8f\x19z\xddy8\x15\x97\xf7/|N\xbfg$Br\xd5G\xc7\xfd\xf1C\x84\xcb\xf9\x10\x88\xf0d#\xd0\xaf\x99V\xea\x00\xfe\xc4\x9d7\xb8|*1p\xf5\xc161\xfeN\xb0a\x98\xe7\xe7't&\xaf\x1bNl3\x99\xd6\xc50"
+2020-11-27 01:13:11,823 - INFO: Usuario Fer: Está cifrando un mensaje.
+2020-11-27 01:13:11,823 - INFO: Usuario Fer: Llave pública de Omar en el llavero personal.
+2020-11-27 01:13:11,824 - INFO: Usuario Fer: Mensaje cifrado: b'\x04\x07$\xcf\xba\xe3\xd0\x0eL\xf5/\x88\x04\x86\xc7z\xf1 l\x97\xd9\x8a\x03\x85\x0bS\xd0\x0b)\xe4\xb3\xb5\xfejV\xfc\xff\nd\xbd-)\xdd{\xde\x19vC\xb4\xdc\x0fSHg5w\x05\x7f2@c~\xde/\x18\xee\xa3\xa0\xbb\x86\x1aq\x19ke\xe5y\xf4\x1b\xdf\x0c~U\xaa?\xa0P\x17\x8b\xeb\xaa\x0ere\xfb&:\x95:\x08\x89'
+2020-11-27 01:13:11,825 - ERROR: Usuario Omar: Error al tratar de conectar socket
+Traceback:
+ 'utf-8' codec can't decode byte 0xe3 in position 5: invalid continuation byte.
+2020-11-27 01:15:09,286 - INFO: Usuario Fer: Ha dejado la conversación.
+2020-11-27 01:15:16,983 - INFO: Usuario Omar: Sesión iniciada.
+2020-11-27 01:15:16,983 - INFO: Usuario Omar: Iniciando generación de llaves.
+2020-11-27 01:15:16,987 - INFO: Usuario Omar: Llave pública y privada creadas.
+2020-11-27 01:15:18,214 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-11-27 01:15:18,214 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-11-27 01:15:18,239 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-11-27 01:15:18,239 - INFO: Usuario Omar: Sesión establecida, esperando comunicación.
+2020-11-27 01:15:23,813 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-27 01:15:23,813 - INFO: Usuario Fer: Iniciando generación de llaves.
+2020-11-27 01:15:23,817 - INFO: Usuario Fer: Llave pública y privada creadas.
+2020-11-27 01:15:25,069 - INFO: Usuario Fer: Buscando contactos.
+2020-11-27 01:15:32,923 - INFO: Usuario Fer: Buscando contacto.
+2020-11-27 01:15:32,945 - INFO: Usuario Fer: Conectando con 40800.
+2020-11-27 01:15:32,946 - INFO: Usuario Fer: Conectado con puerto 40800.
+2020-11-27 01:15:32,946 - INFO: Usuario Omar: Ingresando llave pública de Fer.
+2020-11-27 01:15:32,946 - INFO: Usuario Omar: Llave pública agregada con éxito.
+2020-11-27 01:15:32,947 - INFO: Usuario Omar: Ha realizado intercambio de llaves con Fer.
+2020-11-27 01:15:32,947 - INFO: Usuario Fer: Ingresando llave pública de Omar.
+2020-11-27 01:15:32,947 - INFO: Usuario Fer: Llave pública agregada con éxito.
+2020-11-27 01:15:32,947 - INFO: Usuario Fer: Ha realizado intercambio de llaves con Omar.
+2020-11-27 01:16:03,580 - INFO: Usuario Fer: Ha enviado un mensaje a Omar.
+2020-11-27 01:16:03,581 - INFO: Usuario Fer: Está cifrando un mensaje.
+2020-11-27 01:16:03,581 - INFO: Usuario Fer: Llave pública de Omar en el llavero personal.
+2020-11-27 01:16:03,592 - INFO: Usuario Fer: Mensaje cifrado: b'\x04\xc1\xad\xf8=\xa9+3\xa5\xff\xd1\x08$\xc8I$\xe0\x07f\xd5\xbe\x0b{\xea}\xe7T\xe2\x02s1\xe4\x87\x91\xf9\x9e@\x80\x05,\xc4\x0b\xf6a\xf1Q3Pov\xedm5\x8coyXG\x95\xa0\xddm\x11?\x7f\xe8\xba!n\xba\x9f\n\x92\xa1\x9a\x07\xf4\x9f\xb2p\x8e\xc4\x06\xd5\xa6\x80m\xd2\x7f\xe6}\x97s1\x03z\xd0\xbe\xda\xd1g'
+2020-11-27 01:16:03,592 - INFO: Usuario Fer: Está cifrando un mensaje.
+2020-11-27 01:16:03,592 - INFO: Usuario Fer: Llave pública de Omar en el llavero personal.
+2020-11-27 01:16:03,594 - INFO: Usuario Fer: Mensaje cifrado: b'\x04&>\x9fp\x1c\xba2\xdd\xe5g\x92V\xb9\x83\x83P\x1e\xeb\x1f\xfcFP\x9c\'{\xa0\xb0u\x8f\xac\x0e\x7f@1\x94\x07\xce\xc6\xc3*mr\xa2mM\x82\x1f\xbb\xc1\xb0\xaf\xb6\x05\x9bAA\xf9H\xc4w\xdd=\xc5\x7fG\x8cr\xf1\x8c)\x06\xe7\x9a\xb1\xf5i\xe3\x02Q\x9f\x9d"N\x16\xa9\xa1\xd5\xa9X#\x06\xaf\xf9\x17Cv\xb7\xa6\x95c'
+2020-11-27 01:16:03,595 - ERROR: Usuario Omar: Error al tratar de conectar socket
+Traceback:
+ 'utf-8' codec can't decode byte 0x9f in position 3: invalid start byte.
+2020-11-27 01:29:44,426 - INFO: Usuario Omar: Sesión iniciada.
+2020-11-27 01:29:44,426 - INFO: Usuario Omar: Iniciando generación de llaves.
+2020-11-27 01:29:44,429 - INFO: Usuario Omar: Llave pública y privada creadas.
+2020-11-27 01:29:46,832 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-11-27 01:29:46,832 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-11-27 01:29:46,899 - INFO: Usuario Omar: Puerto 40802 encontrado.
+2020-11-27 01:29:46,899 - INFO: Usuario Omar: Sesión establecida, esperando comunicación.
+2020-11-27 01:29:51,079 - INFO: Usuario Fer: Ha dejado la conversación.
+2020-11-27 01:29:58,442 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-27 01:29:58,442 - INFO: Usuario Fer: Iniciando generación de llaves.
+2020-11-27 01:29:58,446 - INFO: Usuario Fer: Llave pública y privada creadas.
+2020-11-27 01:29:59,991 - INFO: Usuario Fer: Buscando contactos.
+2020-11-27 01:30:09,432 - INFO: Usuario Fer: Buscando contacto.
+2020-11-27 01:30:09,453 - INFO: Usuario Fer: Conectando con 40802.
+2020-11-27 01:30:09,454 - INFO: Usuario Fer: Conectado con puerto 40802.
+2020-11-27 01:30:09,454 - INFO: Usuario Omar: Ingresando llave pública de Fer.
+2020-11-27 01:30:09,455 - INFO: Usuario Omar: Llave pública agregada con éxito.
+2020-11-27 01:30:09,455 - INFO: Usuario Omar: Ha realizado intercambio de llaves con Fer.
+2020-11-27 01:30:09,456 - INFO: Usuario Fer: Ingresando llave pública de Omar.
+2020-11-27 01:30:09,456 - INFO: Usuario Fer: Llave pública agregada con éxito.
+2020-11-27 01:30:09,456 - INFO: Usuario Fer: Ha realizado intercambio de llaves con Omar.
+2020-11-27 01:30:20,113 - INFO: Usuario Fer: Ha enviado un mensaje a Omar.
+2020-11-27 01:30:20,114 - INFO: Usuario Fer: Está cifrando un mensaje.
+2020-11-27 01:30:20,114 - INFO: Usuario Fer: Llave pública de Omar en el llavero personal.
+2020-11-27 01:30:20,125 - INFO: Usuario Fer: Mensaje cifrado: b"\x04G\xa4^\xbc\x8c\xbe\x0b\xbd\x8a\nz\x03J\x9b:)\x96\xb7\x9an\x95\xcb\x1a\xf3\x9f\x9d\xc1\xd2\xdbF\xd3\xba\xc2\xdc\xfdjE\x94\x1e\xac\xe0!\xaa\xc4\x957\xc3\x1bY\x99\x03\xfc\x1d\xf9jg\xc8c\xf7\xb1\xffl\x8a\x05\xc0q^R\xa2\xd9&\x18\x05\x91;\xc8\x16u\xd9\xfc\xb2i\xd6m\xa8\xfbA\xd3CP'\x0e\xf6\xb5\xcd\xe3\x02\t\xc3\xcc"
+2020-11-27 01:30:20,125 - ERROR: Usuario Omar: Error al tratar de conectar socket
+Traceback:
+ 'MySocket' object has no attribute '_user'.
+2020-11-27 01:30:59,590 - INFO: Usuario Fer: Ha dejado la conversación.
+2020-11-27 01:31:08,661 - INFO: Usuario Omar: Sesión iniciada.
+2020-11-27 01:31:08,661 - INFO: Usuario Omar: Iniciando generación de llaves.
+2020-11-27 01:31:08,665 - INFO: Usuario Omar: Llave pública y privada creadas.
+2020-11-27 01:31:10,403 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-11-27 01:31:10,404 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-11-27 01:31:10,427 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-11-27 01:31:10,428 - INFO: Usuario Omar: Sesión establecida, esperando comunicación.
+2020-11-27 01:31:17,038 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-27 01:31:17,039 - INFO: Usuario Fer: Iniciando generación de llaves.
+2020-11-27 01:31:17,042 - INFO: Usuario Fer: Llave pública y privada creadas.
+2020-11-27 01:31:18,348 - INFO: Usuario Fer: Buscando contactos.
+2020-11-27 01:31:23,426 - INFO: Usuario Fer: Buscando contacto.
+2020-11-27 01:31:23,451 - INFO: Usuario Fer: Conectando con 40800.
+2020-11-27 01:31:23,452 - INFO: Usuario Fer: Conectado con puerto 40800.
+2020-11-27 01:31:23,453 - INFO: Usuario Omar: Ingresando llave pública de Fer.
+2020-11-27 01:31:23,453 - INFO: Usuario Omar: Llave pública agregada con éxito.
+2020-11-27 01:31:23,453 - INFO: Usuario Omar: Ha realizado intercambio de llaves con Fer.
+2020-11-27 01:31:23,454 - INFO: Usuario Fer: Ingresando llave pública de Omar.
+2020-11-27 01:31:23,454 - INFO: Usuario Fer: Llave pública agregada con éxito.
+2020-11-27 01:31:23,454 - INFO: Usuario Fer: Ha realizado intercambio de llaves con Omar.
+2020-11-27 01:31:26,544 - INFO: Usuario Fer: Ha enviado un mensaje a Omar.
+2020-11-27 01:31:26,544 - INFO: Usuario Fer: Está cifrando un mensaje.
+2020-11-27 01:31:26,545 - INFO: Usuario Fer: Llave pública de Omar en el llavero personal.
+2020-11-27 01:31:26,555 - INFO: Usuario Fer: Mensaje cifrado: b'\x04f\xc4\x16\xb9]9\x0bV\xe7\xa6\xda9\xd9:\x8db\xa3\xfbX\x19\n\xf6\xad:cW9\xfe\xd0\xb4\x11\x99\x81\xf1\xf4\x9d\xb7\xf9\x8fP\xb0\x85\xb1\x95\xcd\xba\xb6%\xf4\xb6@\x0f\x84\x1ae\xd2z\x9b\xc5\x98\xcaq\xa3\xea{\xba=*\x13g?\x08X=\x8e\xfa\xd6\xde\xcd\x80\x04~\xde^\xdd\xc8\xcd\xebn\xe4\x97(t[\xefqo\x9f\x8e\xf9'
+2020-11-27 01:31:26,556 - INFO: Usuario Omar: Está decifrando un mensaje.
+2020-11-27 01:31:26,565 - INFO: Usuario Omar: Mensaje decifrado.
+2020-11-27 01:36:40,676 - INFO: Usuario Omar: Ha dejado la conversación.
+2020-11-27 01:36:55,666 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-27 01:36:55,666 - INFO: Usuario Fer: Iniciando generación de llaves.
+2020-11-27 01:36:55,669 - INFO: Usuario Fer: Llave pública y privada creadas.
+2020-11-27 01:37:04,929 - INFO: Usuario Omar: Sesión iniciada.
+2020-11-27 01:37:04,930 - INFO: Usuario Omar: Iniciando generación de llaves.
+2020-11-27 01:37:04,933 - INFO: Usuario Omar: Llave pública y privada creadas.
+2020-11-27 01:37:06,532 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-11-27 01:37:06,533 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-11-27 01:37:06,593 - INFO: Usuario Omar: Puerto 40802 encontrado.
+2020-11-27 01:37:06,594 - INFO: Usuario Omar: Sesión establecida, esperando comunicación.
+2020-11-27 01:37:11,167 - INFO: Usuario Fer: Buscando contactos.
+2020-11-27 01:37:24,865 - INFO: Usuario Fer: Buscando contacto.
+2020-11-27 01:37:24,888 - INFO: Usuario Fer: Conectando con 40800.
+2020-11-27 01:37:49,395 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-27 01:37:49,396 - INFO: Usuario Fer: Iniciando generación de llaves.
+2020-11-27 01:37:49,398 - INFO: Usuario Fer: Llave pública y privada creadas.
+2020-11-27 01:37:51,343 - INFO: Usuario Fer: Buscando contactos.
+2020-11-27 01:37:58,552 - INFO: Usuario Fer: Buscando contacto.
+2020-11-27 01:37:58,573 - INFO: Usuario Fer: Conectando con 40802.
+2020-11-27 01:37:58,574 - INFO: Usuario Fer: Conectado con puerto 40802.
+2020-11-27 01:37:58,575 - INFO: Usuario Omar: Ingresando llave pública de Fer.
+2020-11-27 01:37:58,575 - INFO: Usuario Omar: Llave pública agregada con éxito.
+2020-11-27 01:37:58,576 - INFO: Usuario Omar: Ha realizado intercambio de llaves con Fer.
+2020-11-27 01:37:58,576 - INFO: Usuario Fer: Ingresando llave pública de Omar.
+2020-11-27 01:37:58,576 - INFO: Usuario Fer: Llave pública agregada con éxito.
+2020-11-27 01:37:58,576 - INFO: Usuario Fer: Ha realizado intercambio de llaves con Omar.
+2020-11-27 01:38:56,254 - INFO: Usuario Fer: Ha escrito un mensaje.
+2020-11-27 01:38:56,255 - INFO: Usuario Fer: Está cifrando un mensaje.
+2020-11-27 01:38:56,255 - INFO: Usuario Fer: Llave pública de Omar en el llavero personal.
+2020-11-27 01:38:56,266 - INFO: Usuario Fer: Mensaje cifrado: b'\x04\xdf\xf0>Q\xc9t\xd4\x05K[\xcf_\xc7\t\xb0)\xf2}\xf5PU5,\xa8B\xd2m\x03p\x1d/\xe1(\xa4%2\x88\x94\xcc{\xb0\xad\x99\xa8\xcfI\x94\xd8\xf7\x05\xe3^\x18\xbf\xf5\xed\xac\xdd\xefr2\xe3~\xbf\x05\xc8\x8b*;M\xf0\x12p!9\xf1\x1f\\\xe8\x11\xeb\xa8\x0b\xbe\xb45\x82o\xfc.Vm\xee:\x97\xa4a\xd6\xc3N'
+2020-11-27 01:38:56,266 - INFO: Usuario Fer: Ha enviado un mensaje a Omar.
+2020-11-27 01:38:56,266 - INFO: Usuario Omar: Está decifrando un mensaje.
+2020-11-27 01:38:56,274 - INFO: Usuario Omar: Mensaje decifrado.
+2020-11-27 01:39:42,951 - INFO: Usuario Omar: Ha escrito un mensaje.
+2020-11-27 01:39:42,951 - INFO: Usuario Omar: Está cifrando un mensaje.
+2020-11-27 01:39:42,951 - INFO: Usuario Omar: Llave pública de Fer en el llavero personal.
+2020-11-27 01:39:42,954 - INFO: Usuario Omar: Mensaje cifrado: b'\x04\x1c\x9a\xe5\t)@j\xcc\x0c\x9e\xa1\xf5\x80~/+\xc9\x94#s\x98\xa2\xb0\xb2\x19DIW^\x1as-\xb5\xed\t\xa2\xb6\xd2b\xf0>3\xf9D\xf1\x08\x1e\xf6\x84\xf5\x9f\xbe\x05r\xc6\x1eK\x1eq\xb2\xca\x1aH\xb02Y\xa3\r@\x17\x01P2\x99sgtG\xcbfQ\xe8\x7f\x8cnV}0\xcfJ\xf0\x82\x815 \x9f\x01\x1c\x96\xf5\x8a\x95\x9aP\xe5\x98j_\xd4\xfe\x1d\xbb\xee0\x1f\xb5\x88\xd5\xa0\xbe\xean+\xad\xadL\xbcr\x87X\x87g\xe6\xe1=\xdb'
+2020-11-27 01:39:42,955 - INFO: Usuario Omar: Ha enviado un mensaje a Fer.
+2020-11-27 01:39:42,955 - INFO: Usuario Fer: Está decifrando un mensaje.
+2020-11-27 01:39:42,958 - INFO: Usuario Fer: Mensaje decifrado.
+2020-11-27 01:39:57,215 - INFO: Usuario Fer: Ha escrito un mensaje.
+2020-11-27 01:39:57,215 - INFO: Usuario Fer: Está cifrando un mensaje.
+2020-11-27 01:39:57,216 - INFO: Usuario Fer: Llave pública de Omar en el llavero personal.
+2020-11-27 01:39:57,218 - INFO: Usuario Fer: Mensaje cifrado: b"\x04\x98T\xcf\xa8\xdd\x05<S\xad4\x8fAC\xfeP\xe7\xc0np\xab0)\\\x83\x8a\r\xa85\xc6\xac\x1b\x9e\xf5kD~\x06\x91\xfe\xca\x83\xc1?b\x82X|?\xcb\xe3\x9b(\xaa,\xa8\xdb\xdd\xeag\xe7g\x008\xd6Z\xb71\xc8>8\x8dm\x92-\xe3$\xa3\x184Ab+\x91\xdf\xa6u\x87\xbfP\xbc\x07\x05\xef\x0f\xbbg\xb4DY\x1c(E\xa7\xee\x16\x83wt,\x0eN5\xccE5\xf7\xf0f\xd5\x16i\xd1\x13q\x0e'\xbf"
+2020-11-27 01:39:57,219 - INFO: Usuario Fer: Ha enviado un mensaje a Omar.
+2020-11-27 01:39:57,219 - INFO: Usuario Omar: Está decifrando un mensaje.
+2020-11-27 01:39:57,221 - INFO: Usuario Omar: Mensaje decifrado.
+2020-11-27 01:40:12,919 - INFO: Usuario Omar: Ha dejado la conversación.
+2020-11-27 01:40:59,089 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-11-27 01:40:59,090 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-11-27 01:40:59,112 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-11-27 01:40:59,112 - INFO: Usuario Omar: Sesión establecida, esperando comunicación.
+2020-11-27 01:41:05,078 - INFO: Usuario Fer: Buscando contactos.
+2020-11-27 01:41:19,339 - INFO: Usuario Fer: Buscando contacto.
+2020-11-27 01:41:19,359 - INFO: Usuario Fer: Conectando con 40802.
+2020-11-27 01:41:53,577 - INFO: Usuario Eduardo: Sesión iniciada.
+2020-11-27 01:41:53,578 - INFO: Usuario Eduardo: Iniciando generación de llaves.
+2020-11-27 01:41:53,581 - INFO: Usuario Eduardo: Llave pública y privada creadas.
+2020-11-27 01:41:55,603 - INFO: Usuario Eduardo: Buscando contactos.
+2020-11-27 01:42:01,251 - INFO: Usuario Eduardo: Buscando contacto.
+2020-11-27 01:42:01,276 - INFO: Usuario Eduardo: Conectando con 40800.
+2020-11-27 01:42:01,276 - INFO: Usuario Eduardo: Conectado con puerto 40800.
+2020-11-27 01:42:01,277 - INFO: Usuario Omar: Ingresando llave pública de Eduardo.
+2020-11-27 01:42:01,277 - INFO: Usuario Omar: Llave pública agregada con éxito.
+2020-11-27 01:42:01,277 - INFO: Usuario Omar: Ha realizado intercambio de llaves con Eduardo.
+2020-11-27 01:42:01,278 - INFO: Usuario Eduardo: Ingresando llave pública de Omar.
+2020-11-27 01:42:01,278 - INFO: Usuario Eduardo: Llave pública agregada con éxito.
+2020-11-27 01:42:01,278 - INFO: Usuario Eduardo: Ha realizado intercambio de llaves con Omar.
+2020-11-27 01:42:06,061 - INFO: Usuario Eduardo: Ha escrito un mensaje.
+2020-11-27 01:42:06,061 - INFO: Usuario Eduardo: Está cifrando un mensaje.
+2020-11-27 01:42:06,062 - INFO: Usuario Eduardo: Llave pública de Omar en el llavero personal.
+2020-11-27 01:42:06,074 - INFO: Usuario Eduardo: Mensaje cifrado: b'\x04H\x13\x9b^0\xb1Y\x17b\xf6\x04\xa1#u\xd5Q\xf1\xc9\xf8\x82\xc8\x02F\x19V\x94\xd9\xc5\xef\xf3\x84\x97xQx\xe0TA\x7f\x01$%\x81f3x\xdb\xc7\xdc\x0f\x0c\x80\x9d\xdc\xebL\xb2:\x90\xcd\xd1\x02\nQaA\x8a\x96U\x81cR3\xe4\xa7ro\xe5\xe9_IR\x0f\x1e\xb0\x8f\xaa\xbf4\x00\x1d\xb5\xa5\xc8\x14\xe9\x84\xc0\xc6\x1e\x8eW\x81r\xc6qu\x9d\xe6'
+2020-11-27 01:42:06,074 - INFO: Usuario Eduardo: Ha enviado un mensaje a Omar.
+2020-11-27 01:42:06,074 - INFO: Usuario Omar: Está decifrando un mensaje.
+2020-11-27 01:42:06,076 - INFO: Usuario Omar: Mensaje decifrado.
+2020-11-27 01:42:15,092 - INFO: Usuario Fer: Sesión iniciada.
+2020-11-27 01:42:15,092 - INFO: Usuario Fer: Iniciando generación de llaves.
+2020-11-27 01:42:15,095 - INFO: Usuario Fer: Llave pública y privada creadas.
+2020-11-27 01:42:16,595 - INFO: Usuario Fer: Buscando contactos.
+2020-11-27 01:42:24,186 - INFO: Usuario Fer: Buscando contacto.
+2020-11-27 01:42:24,207 - INFO: Usuario Fer: Conectando con 40800.
+2020-11-27 01:42:24,208 - INFO: Usuario Fer: Conectado con puerto 40800.
+2020-11-27 01:42:39,973 - INFO: Usuario Omar: Ha escrito un mensaje.
+2020-11-27 01:42:39,973 - INFO: Usuario Omar: Está cifrando un mensaje.
+2020-11-27 01:42:39,974 - INFO: Usuario Omar: Llave pública de Eduardo en el llavero personal.
+2020-11-27 01:42:39,975 - INFO: Usuario Omar: Mensaje cifrado: b'\x04\x80\xbd\x15n@d\x86\xd6p\xa6m\xa6\x91\x11k\xf6\x1b\x95\xec{\xe7\xe7Ep\xca\x9f\x7fM\xfb\xd0\xf9\xb3\x11>\xe2*n\x0f\xeb.D`\x94\xd55/\x00\xed\xe9\xc0%Z&7&Oe\x1bW\xdd|\xdc\x9e]\x19L\xbe\x0c\xc1\xde\xea\xa8\xcb\xff\xf9e\xa4\xcc\xcc\x82<\xfeBy\xcb\x17\xa7\x93\xf3\xe3\x11v\xf1/\x00\x04\x82\x8d\xcb[a\xc8\x1ca\xd1\xcb\x8c'
+2020-11-27 01:42:39,975 - INFO: Usuario Omar: Ha enviado un mensaje a Eduardo.
+2020-11-27 01:42:39,975 - INFO: Usuario Eduardo: Está decifrando un mensaje.
+2020-11-27 01:42:39,978 - INFO: Usuario Eduardo: Mensaje decifrado.
+2020-11-27 01:42:50,887 - INFO: Usuario Eduardo: Ha escrito un mensaje.
+2020-11-27 01:42:50,887 - INFO: Usuario Eduardo: Está cifrando un mensaje.
+2020-11-27 01:42:50,887 - INFO: Usuario Eduardo: Llave pública de Omar en el llavero personal.
+2020-11-27 01:42:50,890 - INFO: Usuario Eduardo: Mensaje cifrado: b'\x04\xab4\x7fE\x15L\x14\xfeh2\xbd\xcd\xf3\x9a\xe6\xdc\x9b\x1a\xb9\xdd\xbd5\xcc\xac\xe0O\xca\x17Q\x16j\xb8\xa3U\xaf\xc0pO\x96C\xfa\xcb\xaf\xd2\x81\x19\xf1\xe8\x96w\x03\xad\x109\xbfZ\xd5G<V\xca\xb5\xd0\x1d>\x85j[\x00\x19\xbf\xde\x88\xb2\xf26$\x905S\x81\xb9\x86\x1c\xba!\xe4\x08\xc5i\xab\x89\xffU\xa8&\xde\xd5{\xbe#\xa1\xf7\xb9qe'
+2020-11-27 01:42:50,890 - INFO: Usuario Eduardo: Ha enviado un mensaje a Omar.
+2020-11-27 01:42:50,890 - INFO: Usuario Omar: Está decifrando un mensaje.
+2020-11-27 01:42:50,893 - INFO: Usuario Omar: Mensaje decifrado.
+2020-11-27 01:44:57,943 - INFO: Usuario Omar: Ha escrito un mensaje.
+2020-11-27 01:44:57,943 - INFO: Usuario Omar: Está cifrando un mensaje.
+2020-11-27 01:44:57,943 - INFO: Usuario Omar: Llave pública de Eduardo en el llavero personal.
+2020-11-27 01:44:57,945 - INFO: Usuario Omar: Mensaje cifrado: b'\x04\x94\xe2\xf6\x04\xd0\x8d\x10=k\xbe\xc7P\x99U\xbexQ\xca\xf7\x96I\x9b\xee\x16\x835<\x134\xf5#\xba\xf3\'/\xff5\xcc\\\xa9\x1c\x92J\x16\xcf\xde\\\xe6\\\x08\xf9c3\xb9\x9a\x83\xac"(\xe4P#\x99\n\xf1\xd5\xa7k>\xb4}\xadv\x82S\xca|B\xe2\xf3{\x01x\x8a\xdcu\xd1)x\x88\xf0&Xv\x92\x95\xe2\xd7\xd1sW\x05\x0f\xbc\x14'
+2020-11-27 01:44:57,946 - INFO: Usuario Omar: Ha enviado un mensaje a Eduardo.
+2020-11-27 01:44:57,946 - INFO: Usuario Eduardo: Está decifrando un mensaje.
+2020-11-27 01:44:57,949 - INFO: Usuario Eduardo: Mensaje decifrado.
+2020-11-27 01:45:09,319 - INFO: Usuario Eduardo: Ha escrito un mensaje.
+2020-11-27 01:45:09,319 - INFO: Usuario Eduardo: Está cifrando un mensaje.
+2020-11-27 01:45:09,320 - INFO: Usuario Eduardo: Llave pública de Omar en el llavero personal.
+2020-11-27 01:45:09,322 - INFO: Usuario Eduardo: Mensaje cifrado: b'\x04\xea<l2\x89\x83~\x0b\xd1T\xf4:h\xb6\x0b\x90\xc1\xd5\xcc\xd5.\xe8g\x97Rr\xe9\x81\xb2\xdat\x1d\xda\xafp\xef{^\xb6\xc5,\xb8\xb3\xda\xff\xa2*Z{\xde\xf2\xf2-\x87_\x01\xc8:\xcfQt\xd9\x1e\x9dEEL~\x8ar\xa2\xc5\xbd\xc0\xf1\xf3?\x94\xd6g\xd9\x95a\xc7a\xdf\xb0\xc8\x82\xa2\xa8\xf5,\xfb\x11p\xb9\xd9\xbcGj~S\xa7j\x15\x0fv\x93'
+2020-11-27 01:45:09,322 - INFO: Usuario Eduardo: Ha enviado un mensaje a Omar.
+2020-11-27 01:45:09,322 - INFO: Usuario Omar: Está decifrando un mensaje.
+2020-11-27 01:45:09,324 - INFO: Usuario Omar: Mensaje decifrado.
+2020-11-27 01:45:13,424 - INFO: Usuario Omar: Ha escrito un mensaje.
+2020-11-27 01:45:13,425 - INFO: Usuario Omar: Está cifrando un mensaje.
+2020-11-27 01:45:13,425 - INFO: Usuario Omar: Llave pública de Eduardo en el llavero personal.
+2020-11-27 01:45:13,427 - INFO: Usuario Omar: Mensaje cifrado: b'\x04\xf2{1\xd0\xf0\xea\x93\xb0Y\x84\x9d\xb1\x89-\xa3*}\xd2i\xe1;\xca\xf32g\x084\x95\x03\x8eM6\xb7\x87T\xb6|(\xa9\x18%\xddVG$\xc8U\x81c\xc4\x17\xff~\x01\x119L\x065\x95\xa7!\xff\xb7\x19\xa8\x89\x93\r\xa6\x10X\xc63/\x11f\x18\xb8m\xa1\x07H!4\xe2kL\xf9\xdbd\x1a\xdd\x98\xc1s\x04\x1f\x16\xa5\xca'
+2020-11-27 01:45:13,428 - INFO: Usuario Omar: Ha enviado un mensaje a Eduardo.
+2020-11-27 01:45:13,428 - INFO: Usuario Eduardo: Está decifrando un mensaje.
+2020-11-27 01:45:13,430 - INFO: Usuario Eduardo: Mensaje decifrado.
+2020-11-27 01:45:20,926 - INFO: Usuario Eduardo: Ha dejado la conversación.
+2020-11-27 12:04:56,478 - INFO: Usuario Omar: Sesión iniciada.
+2020-11-27 12:04:56,479 - INFO: Usuario Omar: Iniciando generación de llaves.
+2020-11-27 12:04:56,483 - INFO: Usuario Omar: Llave pública y privada creadas.
+2020-11-27 12:05:10,518 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-11-27 12:05:10,518 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-11-27 12:05:10,538 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-11-27 12:05:10,538 - INFO: Usuario Omar: Sesión establecida, esperando comunicación.
+2020-11-27 12:05:30,418 - INFO: Usuario Otro usuario: Sesión iniciada.
+2020-11-27 12:05:30,418 - INFO: Usuario Otro usuario: Iniciando generación de llaves.
+2020-11-27 12:05:30,425 - INFO: Usuario Otro usuario: Llave pública y privada creadas.
+2020-11-27 12:05:39,056 - INFO: Usuario Otro usuario: Buscando contactos.
+2020-11-27 12:05:59,587 - INFO: Usuario Otro usuario: Buscando contacto.
+2020-11-27 12:05:59,608 - INFO: Usuario Otro usuario: Conectando con 40800.
+2020-11-27 12:05:59,609 - INFO: Usuario Otro usuario: Conectado con puerto 40800.
+2020-11-27 12:05:59,611 - INFO: Usuario Omar: Ingresando llave pública de Otro usuario.
+2020-11-27 12:05:59,611 - INFO: Usuario Omar: Llave pública agregada con éxito.
+2020-11-27 12:05:59,612 - INFO: Usuario Otro usuario: Ingresando llave pública de Omar.
+2020-11-27 12:05:59,613 - INFO: Usuario Omar: Ha realizado intercambio de llaves con Otro usuario.
+2020-11-27 12:05:59,613 - INFO: Usuario Otro usuario: Llave pública agregada con éxito.
+2020-11-27 12:05:59,613 - INFO: Usuario Otro usuario: Ha realizado intercambio de llaves con Omar.
+2020-11-27 12:06:03,358 - INFO: Usuario Otro usuario: Ha escrito un mensaje.
+2020-11-27 12:06:03,358 - INFO: Usuario Otro usuario: Está cifrando un mensaje.
+2020-11-27 12:06:03,358 - INFO: Usuario Otro usuario: Llave pública de Omar en el llavero personal.
+2020-11-27 12:06:03,370 - INFO: Usuario Otro usuario: Mensaje cifrado: b'\x04\xb0F+M\x88:\\o\xb8*\xa0]\xa9\xf3\xa6\xd8\x05\xc4\xeb\x8b\xdcA\xdf\x7f\xf8\x8e\xc8\x95p+e\x9d;`\\\xe6l\xd2C\xbdq?/Q\xa8\xf1\xdar\xddxiA!\xafUl\x8c&5\x1e\xcem\xdc\xfb\x83\xb1\xbe8\x00\x83\xc4f\x8a\xd0\x0e*\xf6\xa1\xea\x06\x99\xea\xaf\xe3m_\x19\x9f6\x1c\xed)Z\xdf\x189\x98\xe6\x1b\xbb'
+2020-11-27 12:06:03,370 - INFO: Usuario Otro usuario: Ha enviado un mensaje a Omar.
+2020-11-27 12:06:03,370 - INFO: Usuario Omar: Está decifrando un mensaje.
+2020-11-27 12:06:03,380 - INFO: Usuario Omar: Mensaje decifrado.
+2020-11-30 10:31:34,480 - INFO: Usuario Omar: Sesión iniciada.
+2020-11-30 10:31:34,481 - INFO: Usuario Omar: Iniciando generación de llaves.
+2020-11-30 10:31:34,485 - INFO: Usuario Omar: Llave pública y privada creadas.
+2020-11-30 10:31:51,347 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-11-30 10:31:51,347 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-11-30 10:31:51,369 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-11-30 10:31:51,370 - INFO: Usuario Omar: Sesión establecida, esperando comunicación.
+2020-11-30 10:32:35,442 - INFO: Usuario Cliente: Sesión iniciada.
+2020-11-30 10:32:35,442 - INFO: Usuario Cliente: Iniciando generación de llaves.
+2020-11-30 10:32:35,446 - INFO: Usuario Cliente: Llave pública y privada creadas.
+2020-11-30 10:32:39,231 - INFO: Usuario Cliente: Buscando contactos.
+2020-11-30 10:32:52,656 - INFO: Usuario Cliente: Buscando contacto.
+2020-11-30 10:32:52,675 - INFO: Usuario Cliente: Conectando con 40800.
+2020-11-30 10:32:52,676 - INFO: Usuario Cliente: Conectado con puerto 40800.
+2020-11-30 10:32:52,677 - INFO: Usuario Omar: Ingresando llave pública de Cliente.
+2020-11-30 10:32:52,678 - INFO: Usuario Omar: Llave pública agregada con éxito.
+2020-11-30 10:32:52,678 - INFO: Usuario Omar: Ha realizado intercambio de llaves con Cliente.
+2020-11-30 10:32:52,678 - INFO: Usuario Cliente: Ingresando llave pública de Omar.
+2020-11-30 10:32:52,679 - INFO: Usuario Cliente: Llave pública agregada con éxito.
+2020-11-30 10:32:52,679 - INFO: Usuario Cliente: Ha realizado intercambio de llaves con Omar.
+2020-11-30 10:32:59,959 - INFO: Usuario Cliente: Ha escrito un mensaje.
+2020-11-30 10:32:59,959 - INFO: Usuario Cliente: Está cifrando un mensaje.
+2020-11-30 10:32:59,960 - INFO: Usuario Cliente: Llave pública de Omar en el llavero personal.
+2020-11-30 10:32:59,973 - INFO: Usuario Cliente: Mensaje cifrado: b'\x04gz\xe3\xc6Z?|\xc3uQ\xc3="z\\\xcf[y\x8e\x13]\xc8\xd5U\x81:c\xb3\x89;?S\xcc/\xc2v\xa9!\xa3]\x97K\x17\x81\x15\x957j\r\xb9\r\xe9\x1e^\xdbD\x0c\xef7/\xffq\n\x1f\xd7i\xa8[N\xafk\xda\x80\xe8C\xaf*1\x0c\xd9#\x0c)k\xae\x84\x8fK\xb4\xf8\x8a\x88GT\xc3\xb7:\x97\xc8\xd1'
+2020-11-30 10:32:59,974 - INFO: Usuario Omar: Está decifrando un mensaje.
+2020-11-30 10:32:59,974 - INFO: Usuario Cliente: Ha enviado un mensaje a Omar.
+2020-11-30 10:32:59,986 - INFO: Usuario Omar: Mensaje decifrado.
+2020-11-30 10:33:19,883 - INFO: Usuario Otro cliente: Sesión iniciada.
+2020-11-30 10:33:19,883 - INFO: Usuario Otro cliente: Iniciando generación de llaves.
+2020-11-30 10:33:19,886 - INFO: Usuario Otro cliente: Llave pública y privada creadas.
+2020-11-30 10:33:23,173 - INFO: Usuario Otro cliente: Buscando contactos.
+2020-11-30 10:33:42,363 - INFO: Usuario Otro cliente: Buscando contacto.
+2020-11-30 10:33:42,386 - INFO: Usuario Otro cliente: Conectando con 40800.
+2020-11-30 10:33:42,387 - INFO: Usuario Otro cliente: Conectado con puerto 40800.
+2020-11-30 10:38:17,141 - INFO: Usuario Omar: Ha dejado la conversación.
+2020-11-30 10:38:32,223 - INFO: Usuario Servidor 1: Sesión iniciada.
+2020-11-30 10:38:32,223 - INFO: Usuario Servidor 1: Iniciando generación de llaves.
+2020-11-30 10:38:32,226 - INFO: Usuario Servidor 1: Llave pública y privada creadas.
+2020-11-30 10:38:33,679 - INFO: Usuario Servidor 1: Estableciendo la conexión socket.
+2020-11-30 10:38:33,680 - INFO: Usuario Servidor 1: Buscando puerto disponible para conexión.
+2020-11-30 10:38:33,720 - INFO: Usuario Servidor 1: Puerto 40801 encontrado.
+2020-11-30 10:38:33,721 - INFO: Usuario Servidor 1: Sesión establecida, esperando comunicación.
+2020-11-30 10:38:42,452 - INFO: Usuario Servidor 2: Sesión iniciada.
+2020-11-30 10:38:42,452 - INFO: Usuario Servidor 2: Iniciando generación de llaves.
+2020-11-30 10:38:42,455 - INFO: Usuario Servidor 2: Llave pública y privada creadas.
+2020-11-30 10:38:43,711 - INFO: Usuario Servidor 2: Estableciendo la conexión socket.
+2020-11-30 10:38:43,711 - INFO: Usuario Servidor 2: Buscando puerto disponible para conexión.
+2020-11-30 10:38:43,768 - INFO: Usuario Servidor 2: Puerto 40802 encontrado.
+2020-11-30 10:38:43,768 - INFO: Usuario Servidor 2: Sesión establecida, esperando comunicación.
+2020-11-30 10:38:51,438 - INFO: Usuario Cliente: Sesión iniciada.
+2020-11-30 10:38:51,439 - INFO: Usuario Cliente: Iniciando generación de llaves.
+2020-11-30 10:38:51,444 - INFO: Usuario Cliente: Llave pública y privada creadas.
+2020-11-30 10:38:52,453 - INFO: Usuario Cliente: Buscando contactos.
+2020-11-30 10:39:59,599 - INFO: Usuario Cliente 2: Sesión iniciada.
+2020-11-30 10:39:59,599 - INFO: Usuario Cliente 2: Iniciando generación de llaves.
+2020-11-30 10:39:59,603 - INFO: Usuario Cliente 2: Llave pública y privada creadas.
+2020-11-30 10:40:07,827 - INFO: Usuario Cliente: Sesión iniciada.
+2020-11-30 10:40:07,828 - INFO: Usuario Cliente: Iniciando generación de llaves.
+2020-11-30 10:40:07,831 - INFO: Usuario Cliente: Llave pública y privada creadas.
+2020-11-30 10:40:14,118 - INFO: Usuario Cliente 2: Buscando contactos.
+2020-11-30 10:40:21,156 - INFO: Usuario Cliente 2: Buscando contacto.
+2020-11-30 10:40:21,176 - INFO: Usuario Cliente 2: Conectando con 40801.
+2020-11-30 10:40:21,177 - INFO: Usuario Cliente 2: Conectado con puerto 40801.
+2020-11-30 10:40:21,178 - INFO: Usuario Servidor 1: Ingresando llave pública de Cliente 2.
+2020-11-30 10:40:21,178 - INFO: Usuario Servidor 1: Llave pública agregada con éxito.
+2020-11-30 10:40:21,178 - INFO: Usuario Servidor 1: Ha realizado intercambio de llaves con Cliente 2.
+2020-11-30 10:40:21,178 - INFO: Usuario Cliente 2: Ingresando llave pública de Servidor 1.
+2020-11-30 10:40:21,178 - INFO: Usuario Cliente 2: Llave pública agregada con éxito.
+2020-11-30 10:40:21,179 - INFO: Usuario Cliente 2: Ha realizado intercambio de llaves con Servidor 1.
+2020-11-30 10:40:31,553 - INFO: Usuario Cliente 2: Ha escrito un mensaje.
+2020-11-30 10:40:31,554 - INFO: Usuario Cliente 2: Está cifrando un mensaje.
+2020-11-30 10:40:31,554 - INFO: Usuario Cliente 2: Llave pública de Servidor 1 en el llavero personal.
+2020-11-30 10:40:31,564 - INFO: Usuario Cliente 2: Mensaje cifrado: b'\x04\xbc\x1c\xf5!\xba&\xc4\x1d2\xd7\x8e\x94\xc41\x8bZE\x0b/\xaa\t\x82\xdfS\x7fS:9=J*\xcc9\xbb\xf3g\xb9<\xd6S\xdc8\xa1\xe6sFZo\xda\xabG\xa0\xc7\xcf\xf2w\xfe@\xab:@\xbc\xb7fLY\xb2\xf0d\xe6\xf8\x9bR3\xc2]\xc7\x04\x85\xef\xf0\x8aM\x1a\xcf\x97y\xa4\xa2r\x8eCWd\x06\x0c\xa6\xa9\xd9\xad'
+2020-11-30 10:40:31,565 - INFO: Usuario Servidor 1: Está decifrando un mensaje.
+2020-11-30 10:40:31,571 - INFO: Usuario Cliente 2: Ha enviado un mensaje a Servidor 1.
+2020-11-30 10:40:31,574 - INFO: Usuario Servidor 1: Mensaje decifrado.
+2020-11-30 10:40:38,617 - INFO: Usuario Cliente: Buscando contactos.
+2020-11-30 10:40:45,871 - INFO: Usuario Cliente: Buscando contacto.
+2020-11-30 10:40:45,889 - INFO: Usuario Cliente: Conectando con 40801.
+2020-11-30 10:40:45,890 - INFO: Usuario Cliente: Conectado con puerto 40801.
+2020-11-30 10:58:23,430 - INFO: Usuario Omar: Sesión iniciada.
+2020-11-30 10:58:23,430 - INFO: Usuario Omar: Iniciando generación de llaves.
+2020-11-30 10:58:23,437 - INFO: Usuario Omar: Llave pública y privada creadas.
+2020-11-30 10:58:24,975 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-11-30 10:58:24,975 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-11-30 10:58:24,997 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-11-30 10:58:24,997 - INFO: Usuario Omar: Sesión establecida, esperando comunicación.
+2020-11-30 10:58:33,681 - INFO: Usuario Cliente: Sesión iniciada.
+2020-11-30 10:58:33,681 - INFO: Usuario Cliente: Iniciando generación de llaves.
+2020-11-30 10:58:33,688 - INFO: Usuario Cliente: Llave pública y privada creadas.
+2020-11-30 10:58:37,204 - INFO: Usuario Cliente: Buscando contactos.
+2020-11-30 10:58:43,403 - INFO: Usuario Cliente: Buscando contacto.
+2020-11-30 10:58:43,427 - INFO: Usuario Cliente: Conectando con 40800.
+2020-11-30 10:58:43,428 - INFO: Usuario Cliente: Conectado con puerto 40800.
+2020-11-30 10:58:43,429 - INFO: Usuario Omar: Ingresando llave pública de Cliente.
+2020-11-30 10:58:43,429 - INFO: Usuario Omar: Llave pública agregada con éxito.
+2020-11-30 10:58:43,429 - INFO: Usuario Omar: Ha realizado intercambio de llaves con Cliente.
+2020-11-30 10:58:43,431 - INFO: Usuario Cliente: Ingresando llave pública de Omar.
+2020-11-30 10:58:43,431 - INFO: Usuario Cliente: Llave pública agregada con éxito.
+2020-11-30 10:58:43,432 - INFO: Usuario Cliente: Ha realizado intercambio de llaves con Omar.
+2020-11-30 10:58:54,265 - INFO: Usuario Cliente 2: Sesión iniciada.
+2020-11-30 10:58:54,265 - INFO: Usuario Cliente 2: Iniciando generación de llaves.
+2020-11-30 10:58:54,268 - INFO: Usuario Cliente 2: Llave pública y privada creadas.
+2020-11-30 10:58:55,554 - INFO: Usuario Cliente 2: Buscando contactos.
+2020-11-30 10:59:00,337 - INFO: Usuario Cliente 2: Buscando contacto.
+2020-11-30 10:59:00,360 - INFO: Usuario Cliente 2: Conectando con 40800.
+2020-11-30 10:59:00,360 - INFO: Usuario Cliente 2: Conectado con puerto 40800.
+2020-11-30 10:59:10,371 - INFO: Usuario Cliente: Ha escrito un mensaje.
+2020-11-30 10:59:10,372 - INFO: Usuario Cliente: Está cifrando un mensaje.
+2020-11-30 10:59:10,372 - INFO: Usuario Cliente: Llave pública de Omar en el llavero personal.
+2020-11-30 10:59:10,387 - INFO: Usuario Cliente: Mensaje cifrado: b'\x04\xe3\xed\xbf\xc0J<B;a\xcc\x8e\xe4%\xc1\xdf\xb3\xf1\xa7\xa2bA\x86\xd1\x80\xc5w\x1a\xf1\x03S\xf3\x7f\x1f\xc0\x17r\xdb\x9b\xda\xe8\xec\x17\xfe\xbf\x8c\xd4\xa2.JR\r\xe8\x85.\xf7k\x80\x9a\xf4\xfa7\x06s\x14\x17K\xa2\xe6\xfc\xd0GW|4\xd5\xba\\\x91@[]b\xca9\xeb\xa80\xd0\xb7\xab,@\xd8\x13\xb0\xfa\xaa\x80\x1e\xaa'
+2020-11-30 10:59:10,388 - INFO: Usuario Omar: Está decifrando un mensaje.
+2020-11-30 10:59:10,391 - INFO: Usuario Cliente: Ha enviado un mensaje a Omar.
+2020-11-30 10:59:10,397 - INFO: Usuario Omar: Mensaje decifrado.
+2020-11-30 11:13:37,575 - INFO: Usuario Cliente: Está decifrando un mensaje.
+2020-12-01 19:35:21,029 - INFO: Usuario Omar: Sesión iniciada.
+2020-12-01 19:35:21,029 - INFO: Usuario Omar: Iniciando generación de llaves.
+2020-12-01 19:35:21,034 - INFO: Usuario Omar: Llave pública y privada creadas.
+2020-12-01 19:35:22,172 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-12-01 19:35:22,172 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-12-01 19:35:22,195 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-12-01 19:35:22,196 - INFO: Usuario Omar: Sesión establecida, esperando comunicación.
+2020-12-01 19:35:31,527 - INFO: Usuario Fer: Sesión iniciada.
+2020-12-01 19:35:31,528 - INFO: Usuario Fer: Iniciando generación de llaves.
+2020-12-01 19:35:31,531 - INFO: Usuario Fer: Llave pública y privada creadas.
+2020-12-01 19:35:35,007 - INFO: Usuario Fer: Buscando contactos.
+2020-12-01 19:35:44,539 - INFO: Usuario Fer: Buscando contacto.
+2020-12-01 19:35:44,562 - INFO: Usuario Fer: Conectando con 40800.
+2020-12-01 19:35:44,563 - INFO: Usuario Fer: Conectado con puerto 40800.
+2020-12-01 19:39:11,211 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-12-01 19:39:11,211 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-12-01 19:39:11,232 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-12-01 19:39:11,232 - INFO: Usuario Omar: Sesión establecida, esperando comunicación.
+2020-12-01 19:39:26,370 - INFO: Usuario Maria: Sesión iniciada.
+2020-12-01 19:39:26,370 - INFO: Usuario Maria: Iniciando generación de llaves.
+2020-12-01 19:39:26,373 - INFO: Usuario Maria: Llave pública y privada creadas.
+2020-12-01 19:39:27,724 - INFO: Usuario Maria: Buscando contactos.
+2020-12-01 19:39:33,514 - INFO: Usuario Maria: Buscando contacto.
+2020-12-01 19:39:33,536 - INFO: Usuario Maria: Conectando con 40800.
+2020-12-01 19:39:33,537 - INFO: Usuario Maria: Conectado con puerto 40800.
+2020-12-01 19:45:21,500 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-12-01 19:45:21,501 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-12-01 19:45:21,519 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-12-01 19:45:21,519 - INFO: Usuario Omar: Sesión establecida, esperando comunicación.
+2020-12-01 19:45:33,964 - INFO: Usuario Omar: Sesión iniciada.
+2020-12-01 19:45:33,965 - INFO: Usuario Omar: Iniciando generación de llaves.
+2020-12-01 19:45:33,968 - INFO: Usuario Omar: Llave pública y privada creadas.
+2020-12-01 19:45:35,518 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-12-01 19:45:35,518 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-12-01 19:45:35,542 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-12-01 19:45:35,542 - INFO: Usuario Omar: Sesión establecida, esperando comunicación.
+2020-12-01 19:45:42,786 - INFO: Usuario Lya: Sesión iniciada.
+2020-12-01 19:45:42,786 - INFO: Usuario Lya: Iniciando generación de llaves.
+2020-12-01 19:45:42,790 - INFO: Usuario Lya: Llave pública y privada creadas.
+2020-12-01 19:45:44,104 - INFO: Usuario Lya: Buscando contactos.
+2020-12-01 19:45:48,705 - INFO: Usuario Lya: Buscando contacto.
+2020-12-01 19:45:48,725 - INFO: Usuario Lya: Conectando con 40800.
+2020-12-01 19:45:48,726 - INFO: Usuario Lya: Conectado con puerto 40800.
+2020-12-01 19:45:48,726 - INFO: Usuario Lya: Ha realizado enviado credenciales a 40800.
+2020-12-01 19:45:48,726 - INFO: Usuario Omar: Ha realizado recibido credenciales de 47696.
+2020-12-01 19:45:48,727 - INFO: Usuario Omar: Ingresando llave pública de Lya.
+2020-12-01 19:45:48,727 - INFO: Usuario Omar: Llave pública agregada con éxito.
+2020-12-01 19:45:48,727 - INFO: Usuario Omar: Ha realizado enviado credenciales a 47696.
+2020-12-01 19:45:48,727 - INFO: Usuario Lya: Ha realizado recibido credenciales de 40800.
+2020-12-01 19:45:48,727 - INFO: Usuario Omar: Ha realizado intercambio de llaves con Lya.
+2020-12-01 19:45:48,727 - INFO: Usuario Lya: Ingresando llave pública de Omar.
+2020-12-01 19:45:48,727 - INFO: Usuario Lya: Llave pública agregada con éxito.
+2020-12-01 19:45:48,727 - INFO: Usuario Lya: Ha realizado intercambio de llaves con Omar.
+2020-12-01 19:45:53,275 - INFO: Usuario Lya: Ha escrito un mensaje.
+2020-12-01 19:45:53,275 - INFO: Usuario Lya: Está cifrando un mensaje.
+2020-12-01 19:45:53,275 - INFO: Usuario Lya: Llave pública de Omar en el llavero personal.
+2020-12-01 19:45:53,284 - INFO: Usuario Lya: Mensaje cifrado: b'\x04z6#\xb4\x05\xacA\x7f@o~(w7\x84Dt\x1e\xa9\x19\xfb\xc3j%\xeeN\x03\x8d\xae\xfd\xafV\xf2\xe4\xcftFkV\xb8\xad\xffi\x8d\xbf\xeb\x82\x12\x9e\xdd\x06ON\xcf^sxX\x9ek\xd9\x08\xba\xceP\xa1\xf2\xfd\xab\xe8\x10\x12\xceV\x8a\x94\xa3]0\x8f$kg\xcd\x97_TUK\xefY\xa7\xe2)$p\x12\xd9\xceY'
+2020-12-01 19:45:53,284 - INFO: Usuario Lya: Ha enviado un mensaje a Omar.
+2020-12-01 19:45:53,284 - INFO: Usuario Omar: Está decifrando un mensaje.
+2020-12-01 19:45:53,292 - INFO: Usuario Omar: Mensaje decifrado.
+2020-12-01 19:46:01,335 - INFO: Usuario Omar: Ha escrito un mensaje.
+2020-12-01 19:46:01,336 - INFO: Usuario Omar: Está cifrando un mensaje.
+2020-12-01 19:46:01,336 - INFO: Usuario Omar: Llave pública de Lya en el llavero personal.
+2020-12-01 19:46:01,338 - INFO: Usuario Omar: Mensaje cifrado: b'\x048\xbd\xa4\n\x12\xadA\x85\x8f\x86S\x8c\x02\x04\xcb_\x13\xa56\'e\x0e\xfa$\x85\x8d)c\x96\x9c}\xd7\xcd\x8b\x0f\xa2\xf0\xa5\x14\x90\xc6\xedr\x07U\n\x02\xe47\x08\x11\xf4\x1924\x93m\xea\xb1\x94{\xb3\x8eL\x80\x88\xa9\x15.\xd5\xb4\xc1\x0b\x83$\x7f\xf5ab\xe7$\x1f8\xbe<3\xb9\x1e\xe2\x8d\xbdo\xb1}\xc4T\xb6\x12\xfb\xc7X\xa7i\x18"\x83\xb2\x86\xd2G\rA^\xedJ1\xf6K'
+2020-12-01 19:46:01,338 - INFO: Usuario Omar: Ha enviado un mensaje a Lya.
+2020-12-01 19:46:01,339 - INFO: Usuario Lya: Está decifrando un mensaje.
+2020-12-01 19:46:01,342 - INFO: Usuario Lya: Mensaje decifrado.
+2020-12-01 19:46:20,986 - INFO: Usuario Gordis: Sesión iniciada.
+2020-12-01 19:46:20,986 - INFO: Usuario Gordis: Iniciando generación de llaves.
+2020-12-01 19:46:20,989 - INFO: Usuario Gordis: Llave pública y privada creadas.
+2020-12-01 19:46:22,311 - INFO: Usuario Gordis: Buscando contactos.
+2020-12-01 19:46:45,421 - INFO: Usuario Gordis: Buscando contacto.
+2020-12-01 19:46:45,440 - INFO: Usuario Gordis: Conectando con 40800.
+2020-12-01 19:46:45,441 - INFO: Usuario Gordis: Conectado con puerto 40800.
+2020-12-01 19:46:45,442 - INFO: Usuario Gordis: Ha realizado enviado credenciales a 40800.
+2020-12-01 19:46:45,442 - INFO: Usuario Omar: Ha realizado recibido credenciales de 47704.
+2020-12-01 19:46:45,443 - INFO: Usuario Omar: Ingresando llave pública de Gordis.
+2020-12-01 19:46:45,443 - INFO: Usuario Omar: Llave pública agregada con éxito.
+2020-12-01 19:46:45,443 - INFO: Usuario Omar: Ha realizado enviado credenciales a 47704.
+2020-12-01 19:46:45,443 - INFO: Usuario Gordis: Ha realizado recibido credenciales de 40800.
+2020-12-01 19:46:45,443 - INFO: Usuario Omar: Ha realizado intercambio de llaves con Gordis.
+2020-12-01 19:46:45,443 - INFO: Usuario Gordis: Ingresando llave pública de Omar.
+2020-12-01 19:46:45,444 - INFO: Usuario Gordis: Llave pública agregada con éxito.
+2020-12-01 19:46:45,444 - INFO: Usuario Gordis: Ha realizado intercambio de llaves con Omar.
+2020-12-01 19:46:48,583 - INFO: Usuario Gordis: Ha escrito un mensaje.
+2020-12-01 19:46:48,584 - INFO: Usuario Gordis: Está cifrando un mensaje.
+2020-12-01 19:46:48,584 - INFO: Usuario Gordis: Llave pública de Omar en el llavero personal.
+2020-12-01 19:46:48,594 - INFO: Usuario Gordis: Mensaje cifrado: b'\x049J\xb6\xffS\xe7\xc2\x8fxo\xb0\xa4\xd8\x10\x8e\xba\x14\x88z\xde\xb3\x90\x91\xd3@lpT\x84\x9c\x163^\x85W\xd6v\xef\xe9\x0b\xccV\x94w8\x8d\xdf\x90\x90\x9c\xbc@\xd9\x8e\xcfQ\x11q\xaa\x97\xf4\xe7\xe6\xe6T\x930\xd9Ro\x1c\xadE\x164\x0f\x86\xe31\x15\x8d`4]\x89\xf2\x85\x1d\xcaY\xbb\x14"R|\t\xcf\xe7\xe0\xb9\x10\xed\xc9'
+2020-12-01 19:46:48,594 - INFO: Usuario Gordis: Ha enviado un mensaje a Omar.
+2020-12-01 19:46:48,594 - INFO: Usuario Omar: Está decifrando un mensaje.
+2020-12-01 19:46:48,596 - INFO: Usuario Omar: Mensaje decifrado.
+2020-12-01 19:47:01,843 - INFO: Usuario Omar: Ha escrito un mensaje.
+2020-12-01 19:47:01,843 - INFO: Usuario Omar: Está cifrando un mensaje.
+2020-12-01 19:47:01,844 - INFO: Usuario Omar: Llave pública de Gordis en el llavero personal.
+2020-12-01 19:47:01,846 - INFO: Usuario Omar: Mensaje cifrado: b'\x04\x988\xc8\xa2\xcb\xe8\xdaO\xaau\xfa\x87\xab\xa8 R\x0c"\xae5ap\x1bA\x95\xa3\xd9\xacm\x18a\x11x\xdf\xc2\xfcQ\x13G[aQ~\xd1\xc1j\x05I4\x8a\x80H5z\xa1`R\xd0\xb7\x9e\xd7\x11\xd7\x9a\xe9\xe9\x9b\xca\x13\xee\x14\x9c\x81\xde3<M$\x92\x96\xa7<\xeb\xdd\xb1\xfc2\xae\x8e%D\\Z\xa6\x94B\xcd\xd3\xca\xe7\xf8J\x02\x1b\x0e'
+2020-12-01 19:47:01,846 - INFO: Usuario Omar: Ha enviado un mensaje a Gordis.
+2020-12-01 19:47:01,846 - INFO: Usuario Gordis: Está decifrando un mensaje.
+2020-12-01 19:47:01,851 - INFO: Usuario Gordis: Mensaje decifrado.
+2020-12-01 19:47:13,512 - INFO: Usuario Lya: Ha escrito un mensaje.
+2020-12-01 19:47:13,513 - INFO: Usuario Lya: Está cifrando un mensaje.
+2020-12-01 19:47:13,513 - INFO: Usuario Lya: Llave pública de Omar en el llavero personal.
+2020-12-01 19:47:13,515 - INFO: Usuario Lya: Mensaje cifrado: b'\x04:\xdf\x8d\xfe\xeb\xf5\x7f\xf1\xb0\xff\xa9\xb9:!\xa3\xe1$\xc6\xdb\xf5\xd1\x12\xdbBz \xbe\xef\x99\x8fv\xdcm\xb7\xb2%)\x80f\xbbD_\x15\x8b\x88k\x92\xbf\t\x1d\xb6\x8awT\xf1\xcb\xff\x9d)L\xc2\xe1\x86S\n/\x1c\x87Wc\x0fq\x88\xe5\x1c\x19\xc5\xfe\xf9n\x87-\xd6!\xdf\x91\xe8\x84s\xef\x8e\x1a\xbd\x01N\xcc:-\xbfRk\xd2\x91\xc7Qp'
+2020-12-01 19:47:13,515 - INFO: Usuario Lya: Ha enviado un mensaje a Omar.
+2020-12-01 19:47:13,515 - INFO: Usuario Omar: Está decifrando un mensaje.
+2020-12-01 19:47:13,517 - INFO: Usuario Omar: Mensaje decifrado.
+2020-12-01 19:47:20,079 - INFO: Usuario Omar: Ha escrito un mensaje.
+2020-12-01 19:47:20,080 - INFO: Usuario Omar: Está cifrando un mensaje.
+2020-12-01 19:47:20,080 - INFO: Usuario Omar: Llave pública de Lya en el llavero personal.
+2020-12-01 19:47:20,082 - INFO: Usuario Omar: Mensaje cifrado: b'\x04\xbeY\x85\xe5\xdcv\xc0a\xe7\x91\x95\x1e\xe3\xfaP\xf4\x8dZ\x0e\xcbS\xe1\xdc\x8b\xa2\xd39\xf0\xd6\xf3\xe1|\xcc\xb4\xd8\xaa\xac4\xcb\xcc\x00\xfb\xca\xf3_\xd6o\xa6\xd4\x17+\xc7|\x8aQ\x90\xcbN\xb5\xe4\nY\xa6\x06\xa0\xee\xedB\xfe\xc5\xce\x90\xaf\x92\xe9\xed\x7f>\nR\xa3Y\x9a\x81\xc2\xe3\x1a?2\xe5\xad] u\xe0\x95\x8a\xa1\xac\xe0:g'
+2020-12-01 19:47:20,082 - INFO: Usuario Omar: Ha enviado un mensaje a Lya.
+2020-12-01 19:47:20,082 - INFO: Usuario Lya: Está decifrando un mensaje.
+2020-12-01 19:47:20,084 - INFO: Usuario Lya: Mensaje decifrado.
+2020-12-01 19:47:33,016 - INFO: Usuario Lya: Ha escrito un mensaje.
+2020-12-01 19:47:33,016 - INFO: Usuario Lya: Está cifrando un mensaje.
+2020-12-01 19:47:33,017 - INFO: Usuario Lya: Llave pública de Omar en el llavero personal.
+2020-12-01 19:47:33,019 - INFO: Usuario Lya: Mensaje cifrado: b'\x04\xae\xb6\x8f\xb7Hl\x9b\xca\xc7\xd1\xd8a\x80#0\x9b\x99\x83\x19\t\xf5\\\xa3\x1f\x175\x89?G\xf8\x9f\xa3\x9b\xbaz\xe4\xfdk\xb1\xb2\r\x81\x1e\xa1\xe9/\x80\x8eQ\x9d\xe6c^\x9a\xdcf\xd8\x1d\x88_E\x01\x8f \x8fN\xf3\xf6T\x9c:\x9f4\x05/\x90\xa1\xcb$3\xefI%x\xf1a\x88\xfd\xe4\x1c_\xfa\xb8\xf7Qe\xc9\xeb\x8f\xd3\x1a\x00w\xcc\xf7U\x90\x94\xd6J\x1bz\x11.Q'
+2020-12-01 19:47:33,019 - INFO: Usuario Lya: Ha enviado un mensaje a Omar.
+2020-12-01 19:47:33,019 - INFO: Usuario Omar: Está decifrando un mensaje.
+2020-12-01 19:47:33,021 - INFO: Usuario Omar: Mensaje decifrado.
+2020-12-01 19:47:41,056 - INFO: Usuario Omar: Ha escrito un mensaje.
+2020-12-01 19:47:41,057 - INFO: Usuario Omar: Está cifrando un mensaje.
+2020-12-01 19:47:41,058 - INFO: Usuario Omar: Llave pública de Lya en el llavero personal.
+2020-12-01 19:47:41,060 - INFO: Usuario Omar: Mensaje cifrado: b"\x04\x9fk\x04\x80\xb1k\x04\x0e\xef#:\xb7\x05\x8b\xf5\xb6\xf8\x80\xf1\x82\x10U6^\x93\xdb\xc2t(?Wq\xe9\x99I\x97\x02\xa9j\xaabOp\x103(\x0f0\xc4n\xcf\xf0*}\xf7\x8d\xd1Y$\x97/\xec\xfd\x17\xe2\xc7\x00\xc7\xb3\xa9N\x05\xd0\xeaO\xdc\xb4\xa2\xfc\xe0\xee\xfe\xb6%89'\xe8\\\x98|\x84\x16\xbbi=^pE\xb9\xb2\xc2\xd0er"
+2020-12-01 19:47:41,061 - INFO: Usuario Omar: Ha enviado un mensaje a Lya.
+2020-12-01 19:47:41,061 - INFO: Usuario Lya: Está decifrando un mensaje.
+2020-12-01 19:47:41,063 - INFO: Usuario Lya: Mensaje decifrado.
+2020-12-01 19:47:45,587 - INFO: Usuario Gordis: Ha escrito un mensaje.
+2020-12-01 19:47:45,588 - INFO: Usuario Gordis: Está cifrando un mensaje.
+2020-12-01 19:47:45,588 - INFO: Usuario Gordis: Llave pública de Omar en el llavero personal.
+2020-12-01 19:47:45,590 - INFO: Usuario Gordis: Mensaje cifrado: b'\x04\xef\rLh\xad8\xabz\xf2X\x14\x9d|\xfe\xa7*&\xf8*(\xa3\xd4\xfa(\x85v\x9eNo\xe8xb\xe6\x82\x9a7\x94\xdb\x1e{\xc4\n\xa4b*ZfX\x17\x7f(\xdeCj\xc09A\xc0\xbf\xd8\x91\xaa\x11\xe3O\xbd\x03&Fr?\x95\x10n*Q\x8b\x17\xb7\x0c\x9c\xdbs4\xd9#\xef\xdeG\xc8\x11\xf7\x9b&\x84\xfc\x011\xac\x87V\xd6\xc3\xde\xd0<'
+2020-12-01 19:47:45,590 - INFO: Usuario Gordis: Ha enviado un mensaje a Omar.
+2020-12-01 19:47:45,590 - INFO: Usuario Omar: Está decifrando un mensaje.
+2020-12-01 19:47:45,592 - INFO: Usuario Omar: Mensaje decifrado.
+2020-12-01 19:51:45,782 - INFO: Usuario Omar: Ha dejado la conversación.
+2020-12-01 19:51:55,661 - INFO: Usuario Lya: Ha escrito un mensaje.
+2020-12-01 19:51:55,661 - INFO: Usuario Lya: Está cifrando un mensaje.
+2020-12-01 19:51:55,662 - INFO: Usuario Lya: Llave pública de Omar en el llavero personal.
+2020-12-01 19:51:55,664 - INFO: Usuario Lya: Mensaje cifrado: b'\x04\x84\xa9Kn\t3A\xa3\xad\xe1\x91\x9f\xc1ATD@y\xda\xbf\xd3\xc9\x1a"\xab\x81\x87I\xee\xa3I\xf8\x83L\x93<O\x07\x17\xfc\x81\xce\r\xab\x9a\x8a\x8c\'\xec1\x8c\xc2\x83\xc6\xad\xe7\xac\x19\xc2\x81c\x1d\xb1\xee\x95B\xfe\xb2\xa3;\xb3Q\xf4\xc0\x1250\xe9/\xee\xf2\x0c5P\xc4B\xb5w\x04t\x9e\xd23\xb45\xd2F\xd0f\xf4\x97\x11\x95\xc9'
+2020-12-01 19:51:55,665 - INFO: Usuario Lya: Ha enviado un mensaje a Omar.
+2020-12-01 19:51:55,665 - INFO: Usuario Omar: Está decifrando un mensaje.
+2020-12-01 19:51:55,667 - INFO: Usuario Omar: Mensaje decifrado.
+2020-12-01 20:11:14,213 - INFO: Usuario Omar: Ha dejado la conversación.
+2020-12-01 20:18:49,839 - INFO: Usuario Omar: Sesión iniciada.
+2020-12-01 20:18:49,839 - INFO: Usuario Omar: Iniciando generación de llaves.
+2020-12-01 20:18:49,842 - INFO: Usuario Omar: Llave pública y privada creadas.
+2020-12-01 20:18:51,169 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-12-01 20:18:51,170 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-12-01 20:18:51,193 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-12-01 20:18:51,193 - INFO: Usuario Omar: Sesión establecida, esperando comunicación.
+2020-12-01 20:18:55,302 - INFO: Usuario Lya: Buscando contactos.
+2020-12-01 20:19:00,823 - INFO: Usuario Lya: Buscando contacto.
+2020-12-01 20:19:00,845 - INFO: Usuario Lya: Conectando con 40800.
+2020-12-01 20:19:00,846 - INFO: Usuario Lya: Conectado con puerto 40800.
+2020-12-01 20:19:00,846 - INFO: Usuario Lya: Ha realizado enviado credenciales a 40800.
+2020-12-01 20:19:00,847 - INFO: Usuario Omar: Ha realizado recibido credenciales de 47928.
+2020-12-01 20:19:00,847 - INFO: Usuario Omar: Ingresando llave pública de Lya.
+2020-12-01 20:19:00,847 - INFO: Usuario Omar: Llave pública agregada con éxito.
+2020-12-01 20:19:00,848 - INFO: Usuario Omar: Ha realizado enviado credenciales a 47928.
+2020-12-01 20:19:00,848 - INFO: Usuario Lya: Ha realizado recibido credenciales de 40800.
+2020-12-01 20:19:00,848 - INFO: Usuario Omar: Ha realizado intercambio de llaves con Lya.
+2020-12-01 20:19:00,848 - INFO: Usuario Lya: Ingresando llave pública de Omar.
+2020-12-01 20:19:00,848 - INFO: Usuario Lya: Llave pública agregada con éxito.
+2020-12-01 20:19:00,848 - INFO: Usuario Lya: Ha realizado intercambio de llaves con Omar.
+2020-12-01 20:19:04,260 - INFO: Usuario Lya: Ha escrito un mensaje.
+2020-12-01 20:19:04,260 - INFO: Usuario Lya: Está cifrando un mensaje.
+2020-12-01 20:19:04,260 - INFO: Usuario Lya: Llave pública de Omar en el llavero personal.
+2020-12-01 20:19:04,262 - INFO: Usuario Lya: Mensaje cifrado: b'\x04\xcd\xf1\x8d\x10\x1a\xed\xfa-b\x98l\x000\xa9\xc4\x9by|bO\x89y\xde[\x96\x7fv\x9d\xed\xcd\xc0\x8d1\xe9\xa4\x15g)&;=\xc3*\xc3\xc4\x9e\x00o\xea@:N\x07\xec\xe0M(\xe21\xc4vj\xd8&\xe8\x87\xaf\x01\x84\xd3\xc4_\x19N\x13\x88Y\xb5B\xb0\x0e`T\x1cF\xe3w\x89\x90\x16\x0b\xcei\xb6$<\x81\xf8d\xb2'
+2020-12-01 20:19:04,262 - INFO: Usuario Lya: Ha enviado un mensaje a Omar.
+2020-12-01 20:19:04,262 - INFO: Usuario Omar: Está decifrando un mensaje.
+2020-12-01 20:19:04,271 - INFO: Usuario Omar: Mensaje decifrado.
+2020-12-01 20:20:53,124 - INFO: Usuario Omar: Ha escrito un mensaje.
+2020-12-01 20:20:53,125 - INFO: Usuario Omar: Está cifrando un mensaje.
+2020-12-01 20:20:53,125 - INFO: Usuario Omar: Llave pública de Lya en el llavero personal.
+2020-12-01 20:20:53,127 - INFO: Usuario Omar: Mensaje cifrado: b'\x04\x0by\x9a\xe9Uo_2\xb1|\x8e\xee\xe0\xcc\x9a,\x04&\x1c\xe2\x89\xaaP\x8a\xf5\xa5\xd3LMi\xa8\xc0\x94`\xea\x02\xab\x82\xd1jk\xce\xce\x82\x02\x18\xd4\xc2\xd6\xad\x99\x934\x9b\x95R\xd5}\x97\xac\xf4X\xad\xb3\xd0\xda\xe1\xae\xac\xfeg\x8d\xc2\xc7\xbe\xf79\xbd\n\x1d\xba\x1fS\xe9=\x8b\xe5G\xc9H\x8bo\xef\xf9\x8c\xd7[\xd1T\xb6\xad'
+2020-12-01 20:20:53,128 - INFO: Usuario Omar: Ha enviado un mensaje a Lya.
+2020-12-01 20:20:53,128 - INFO: Usuario Lya: Está decifrando un mensaje.
+2020-12-01 20:20:53,131 - INFO: Usuario Lya: Mensaje decifrado.
+2020-12-01 20:20:57,369 - INFO: Usuario Omar: Buscando contactos.
+2020-12-01 20:21:11,256 - INFO: Usuario Lya: Ha escrito un mensaje.
+2020-12-01 20:21:11,257 - INFO: Usuario Lya: Está cifrando un mensaje.
+2020-12-01 20:21:11,257 - INFO: Usuario Lya: Llave pública de Omar en el llavero personal.
+2020-12-01 20:21:11,260 - INFO: Usuario Lya: Mensaje cifrado: b'\x04\xf9=h\xd7\xc8\x7f\xef\xec\xfa\tZ\x98r=,\xaf\xeb\r\x98c\x1b\xee\x1b\xa8M]%f\xff\xcc\xf7\xc8^\xfaxzw`\xc1\xbb\xe6\x16\xbd\xc1\xf9\x1f\xbc\x8d\xa43^\xb3\xaf\x01\xe0\xa6\xf8\xea\xac!\x06\xf5 \xee\xd17\x8fJ\xff\x11L\xe8}-`\xedt.i\xfc\x93\x16\x81N7\xc8\x9cU\x84Uk(QV\x95\xc6\xaf\x9c\xcf\xfd'
+2020-12-01 20:21:11,260 - INFO: Usuario Lya: Ha enviado un mensaje a Omar.
+2020-12-01 20:21:11,260 - INFO: Usuario Omar: Está decifrando un mensaje.
+2020-12-01 20:21:11,263 - INFO: Usuario Omar: Mensaje decifrado.
+2020-12-01 20:22:30,642 - INFO: Usuario Omar: Ha escrito un mensaje.
+2020-12-01 20:22:30,643 - INFO: Usuario Omar: Está cifrando un mensaje.
+2020-12-01 20:22:30,643 - INFO: Usuario Omar: Llave pública de Lya en el llavero personal.
+2020-12-01 20:22:30,645 - INFO: Usuario Omar: Mensaje cifrado: b'\x046\x12\xe6|j\x17\xa0$\xae\xb6u\x15J\xa8\xb3\x9f\x1f9\xabu\xb8}W1G\xf7\xcdbA\xa7\xca\x86W\xe4\xce<\x9d\xafp^&\xdf\xc2.%\xd4\xd2^\xf33?m\xb9\xfa\x12\x9b\x83N5\x9e\x99\x04\xe1\x92\xbb-r\xf2\x82\x1a\x90h\xc2n\xc9?P\x90Q=3\xf1\xd7\x95D\xe6^\xa9\x11%rA\x18\xf1\x01\x1d'
+2020-12-01 20:22:30,646 - INFO: Usuario Omar: Ha enviado un mensaje a Lya.
+2020-12-01 20:22:30,646 - INFO: Usuario Lya: Está decifrando un mensaje.
+2020-12-01 20:22:30,648 - INFO: Usuario Lya: Mensaje decifrado.
+2020-12-01 20:24:17,525 - INFO: Usuario Lya: Ha escrito un mensaje.
+2020-12-01 20:24:17,526 - INFO: Usuario Lya: Está cifrando un mensaje.
+2020-12-01 20:24:17,526 - INFO: Usuario Lya: Llave pública de Omar en el llavero personal.
+2020-12-01 20:24:17,528 - INFO: Usuario Lya: Mensaje cifrado: b'\x04\xcc\x11\xb6\x84\x80:\x0c\x0f\x82|\x1c\x19=\xd7\xbb\xc1\xc0A^\x83\xf7\xe8\xd3k\x8e\xaf\x87 \xacX\xdd\xa3\xd3<\xc6\x1f\xa9\xe5*j\x82t\x9d\xa5v%\xfb\xfd\x0c\xb9\x97\x9e\xbc\xa9L\xb7\x92f{\x8e\x86\x15\xfa\xd3\xa9s\xc8\xcflFE\xb2\x84\xd1\x10\x91\xd8\xb7\x81\xe7\x9b?\x9f#\xaf\xa7\x8c\x0f\xaaZ\xf0\xe8\xd0\xc3\x89Nr\x8f\xa8\xddDX\xe5/\x13'
+2020-12-01 20:24:17,529 - INFO: Usuario Omar: Está decifrando un mensaje.
+2020-12-01 20:24:17,531 - INFO: Usuario Lya: Ha enviado un mensaje a Omar.
+2020-12-01 20:24:17,531 - INFO: Usuario Omar: Mensaje decifrado.
+2020-12-01 20:24:33,076 - INFO: Usuario Omar: Ha escrito un mensaje.
+2020-12-01 20:24:33,077 - INFO: Usuario Omar: Está cifrando un mensaje.
+2020-12-01 20:24:33,077 - INFO: Usuario Omar: Llave pública de Lya en el llavero personal.
+2020-12-01 20:24:33,079 - INFO: Usuario Omar: Mensaje cifrado: b'\x04\xcbP\xe8\x14\xdf|j\xd67\x81\xc2#\xd9(\x03\x16f\xcfsL\xe6o\x10\xa2\x9a\xd6t\xe4\xa7\xdf5s\x8b\xec*\x88\xd5\xd5S\xcb\x93v\x13W\xda\xaaT\xf9\xfc\x01\x11 \xee\xed\n\xd1\x03\xafz\xc4\xd1Q\x83\xf9@Pe\xd5\x1b\xa0 \xf3\xaaD+\x08\xc1\xb2\xc4\x06V\xbfu{\xb2\x84w\xcc\xb0\xf5`\xac\xbb&\xff\x85!@\xd2\xff'
+2020-12-01 20:24:33,080 - INFO: Usuario Omar: Ha enviado un mensaje a Lya.
+2020-12-01 20:24:33,080 - INFO: Usuario Lya: Está decifrando un mensaje.
+2020-12-01 20:24:33,082 - INFO: Usuario Lya: Mensaje decifrado.
+2020-12-01 20:25:01,103 - INFO: Usuario Lya: Ha dejado la conversación.
