@@ -800,3 +800,132 @@ Traceback:
 2020-12-01 20:24:33,080 - INFO: Usuario Lya: Está decifrando un mensaje.
 2020-12-01 20:24:33,082 - INFO: Usuario Lya: Mensaje decifrado.
 2020-12-01 20:25:01,103 - INFO: Usuario Lya: Ha dejado la conversación.
+2020-12-01 21:02:44,746 - INFO: Usuario Omar: Sesión iniciada.
+2020-12-01 21:02:44,747 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-12-01 21:02:44,747 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-12-01 21:02:44,769 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-12-01 21:02:44,770 - INFO: Usuario Omar: Sesión establecida, esperando comunicación.
+2020-12-01 21:13:27,675 - INFO: Usuario Omar: Sesión iniciada.
+2020-12-01 21:13:27,675 - INFO: Usuario Omar: Iniciando generación de llaves.
+2020-12-01 21:13:27,678 - INFO: Usuario Omar: Llave pública y privada creadas.
+2020-12-01 21:13:27,679 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-12-01 21:13:27,679 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-12-01 21:13:27,700 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-12-01 21:13:27,700 - INFO: Usuario Omar: Sesión establecida, esperando comunicación.
+2020-12-01 21:18:33,582 - INFO: Usuario Omar: Sesión iniciada.
+2020-12-01 21:18:33,582 - INFO: Usuario Omar: Iniciando generación de llaves.
+2020-12-01 21:18:33,585 - INFO: Usuario Omar: Llave pública y privada creadas.
+2020-12-01 21:18:33,586 - INFO: Usuario Omar: Estableciendo la conexión socket.
+2020-12-01 21:18:33,587 - INFO: Usuario Omar: Buscando puerto disponible para conexión.
+2020-12-01 21:18:33,609 - INFO: Usuario Omar: Puerto 40800 encontrado.
+2020-12-01 21:18:33,610 - INFO: Usuario Omar: Sesión establecida, esperando comunicación.
+2020-12-01 21:18:50,108 - INFO: Usuario Omar: Buscando contactos.
+2020-12-01 21:19:12,502 - INFO: Usuario Omar: Buscando contacto.
+2020-12-01 21:19:12,526 - INFO: Usuario Omar: Conectando con 40800.
+2020-12-01 21:19:12,527 - INFO: Usuario Omar: Conectado con puerto 40800.
+2020-12-01 21:19:12,528 - INFO: Usuario Omar: Ha realizado recibido credenciales de 48788.
+2020-12-01 21:19:12,528 - INFO: Usuario Omar: Ha realizado enviado credenciales a 40800.
+2020-12-01 21:19:12,529 - INFO: Usuario Omar: Ingresando llave pública de Omar.
+2020-12-01 21:19:12,530 - INFO: Usuario Omar: Llave pública agregada con éxito.
+2020-12-01 21:19:12,531 - INFO: Usuario Omar: Ha realizado recibido credenciales de 40800.
+2020-12-01 21:19:12,531 - INFO: Usuario Omar: Ha realizado enviado credenciales a 48788.
+2020-12-01 21:19:12,531 - INFO: Usuario Omar: Ingresando llave pública de Omar.
+2020-12-01 21:19:12,532 - INFO: Usuario Omar: Llave pública agregada con éxito.
+2020-12-01 21:19:12,532 - INFO: Usuario Omar: Ha realizado intercambio de llaves con Omar.
+2020-12-01 21:19:12,531 - INFO: Usuario Omar: Ha realizado intercambio de llaves con Omar.
+2020-12-01 21:19:15,774 - INFO: Usuario Omar: Ha escrito un mensaje.
+2020-12-01 21:19:15,774 - INFO: Usuario Omar: Está cifrando un mensaje.
+2020-12-01 21:19:15,774 - INFO: Usuario Omar: Llave pública de Omar en el llavero personal.
+2020-12-01 21:19:15,781 - INFO: Usuario Omar: Mensaje cifrado: b'\x04\xa6\xf5\xd4\xb0w\xff\xa1^R\xd0G|?@\xdf\xbc&n\x82\xb7\xa8i\xdbt\x1eh]\xca\xb8\xe9x\x1e1\x05\x9c\x9a\x11\xd4\x90<\x8e=\xdc8\xcaL#\x03Oc\x94\xd9\xdd\x05\x8e\x9f\xcfD\x01\x19\x08\xb7\x8c\xb9\xae\x91\xb9\xb8\x99\xc0\xc2~\xdamv\xe6\xa5\x90\x8dv\x84\xde\x9b*\xec\xeaBd{\xd9Z\xba\xa1\x90\xfbJ\x0er\xebG'
+2020-12-01 21:19:15,782 - INFO: Usuario Omar: Está decifrando un mensaje.
+2020-12-01 21:19:15,782 - INFO: Usuario Omar: Ha enviado un mensaje a Omar.
+2020-12-01 21:19:15,784 - INFO: Usuario Omar: Mensaje decifrado.
+2020-12-01 21:19:19,957 - INFO: Usuario Omar: Ha escrito un mensaje.
+2020-12-01 21:19:19,958 - INFO: Usuario Omar: Está cifrando un mensaje.
+2020-12-01 21:19:19,958 - INFO: Usuario Omar: Llave pública de Omar en el llavero personal.
+2020-12-01 21:19:19,959 - INFO: Usuario Omar: Mensaje cifrado: b'\x04\x7f\xab\x1d\x08\xe5\xe2g\xf1I/\xad\x8eW,\x11(\x83\x83\xc5\xdb\xe8\xdf.\n\xb1C\xf2#\xec\xe0\x13\xa8\x9el+\r<\x0c\x1a\xf2\x068\xd1\xeav\x14 o4\x8f#j\xce\x92\xce\xa6um\xee\xb2\xb0\xc4\x1a\x97+\xd1\x12\x8e)\x19n"@F[\xd5\x1b\xe6#\xae\xf5|\xa4MR\x1b\x01\xfa\xb2.\x18\x9d\xa7\x05\xb6m<^\xa3\xb3\x08+\xe8\x17'
+2020-12-01 21:19:19,960 - INFO: Usuario Omar: Ha enviado un mensaje a Omar.
+2020-12-01 21:19:19,960 - INFO: Usuario Omar: Está decifrando un mensaje.
+2020-12-01 21:19:19,961 - INFO: Usuario Omar: Mensaje decifrado.
+2020-12-01 21:19:24,198 - INFO: Usuario Omar: Ha dejado la conversación.
+2020-12-01 21:19:30,840 - INFO: Usuario Omar: Buscando contactos.
+2020-12-01 21:19:38,915 - INFO: Usuario Omar: Buscando contactos.
+2020-12-01 21:20:43,330 - INFO: Usuario Maria: Sesión iniciada.
+2020-12-01 21:20:43,330 - INFO: Usuario Maria: Iniciando generación de llaves.
+2020-12-01 21:20:43,334 - INFO: Usuario Maria: Llave pública y privada creadas.
+2020-12-01 21:20:43,336 - INFO: Usuario Maria: Estableciendo la conexión socket.
+2020-12-01 21:20:43,336 - INFO: Usuario Maria: Buscando puerto disponible para conexión.
+2020-12-01 21:20:43,377 - INFO: Usuario Maria: Puerto 40801 encontrado.
+2020-12-01 21:20:43,377 - INFO: Usuario Maria: Sesión establecida, esperando comunicación.
+2020-12-01 21:20:47,226 - INFO: Usuario Maria: Buscando contactos.
+2020-12-01 21:20:54,780 - INFO: Usuario Maria: Buscando contacto.
+2020-12-01 21:20:54,802 - INFO: Usuario Maria: Conectando con 40800.
+2020-12-01 21:20:54,803 - INFO: Usuario Maria: Conectado con puerto 40800.
+2020-12-01 21:20:54,803 - INFO: Usuario Maria: Ha realizado enviado credenciales a 40800.
+2020-12-01 21:20:54,803 - INFO: Usuario Omar: Ha realizado recibido credenciales de 48800.
+2020-12-01 21:20:54,804 - INFO: Usuario Omar: Ingresando llave pública de Maria.
+2020-12-01 21:20:54,804 - INFO: Usuario Omar: Llave pública agregada con éxito.
+2020-12-01 21:20:54,804 - INFO: Usuario Omar: Ha realizado enviado credenciales a 48800.
+2020-12-01 21:20:54,805 - INFO: Usuario Maria: Ha realizado recibido credenciales de 40800.
+2020-12-01 21:20:54,805 - INFO: Usuario Maria: Ingresando llave pública de Omar.
+2020-12-01 21:20:54,805 - INFO: Usuario Omar: Ha realizado intercambio de llaves con Maria.
+2020-12-01 21:20:54,805 - INFO: Usuario Maria: Llave pública agregada con éxito.
+2020-12-01 21:20:54,805 - INFO: Usuario Maria: Ha realizado intercambio de llaves con Omar.
+2020-12-01 21:21:04,384 - INFO: Usuario Maria: Ha escrito un mensaje.
+2020-12-01 21:21:04,384 - INFO: Usuario Maria: Está cifrando un mensaje.
+2020-12-01 21:21:04,385 - INFO: Usuario Maria: Llave pública de Omar en el llavero personal.
+2020-12-01 21:21:04,396 - INFO: Usuario Maria: Mensaje cifrado: b'\x04Z\x1c\xd2\xda\xbbEQ\xa7\xfe\x10^\x95\xf1\x92\x86;XLz\xa1_\x8a\x9cZb\x80\xe8O\xde\x1f_6|G\xe0\xd1]\xb4\xdd\xaf\xff\xd5\x0b\xf0\xddB\xdc\n\xdf\x00S\xa7K5\x1b\xa0\xf2!\xe3\xf0Q\xb2G#\xcc\xf3Qb8\x03\x95m\x1c\x80\xed\xad\x8d\x81\xe9\x97\x83\xd6\x06@\xf6\xfe,\x9fG\xd8\x04\x12\x13\xbea\x13\xfeu&\xa8'
+2020-12-01 21:21:04,396 - INFO: Usuario Maria: Ha enviado un mensaje a Omar.
+2020-12-01 21:21:04,396 - INFO: Usuario Omar: Está decifrando un mensaje.
+2020-12-01 21:21:04,398 - INFO: Usuario Omar: Mensaje decifrado.
+2020-12-01 21:21:20,014 - INFO: Usuario Omar: Ha escrito un mensaje.
+2020-12-01 21:21:20,014 - INFO: Usuario Omar: Está cifrando un mensaje.
+2020-12-01 21:21:20,015 - INFO: Usuario Omar: Llave pública de Maria en el llavero personal.
+2020-12-01 21:21:20,017 - INFO: Usuario Omar: Mensaje cifrado: b'\x04[\xa4\x0f&\x1fL\xc5x]|j\x1e\xbd\xd7\xf5\xbe\x9b\xa6\xf66Y\xab\x88\xfc\xcb\x9f\xe4E\xa9C\xfa\xff\xd5\xc4.w\xf9U\xd3\x0b3\xd0\xa0\x90\xfb4\xa9\x89\xb9\x16\xf8jM\x8bV\xe6\xdf+Z\x99\xf4\xad-\x15\x12\xac\x87\xe4\x02\xb7\x1cdc\x1b]\xbb%P\xe1\xbbb\xb3\xd6\xbc\xe8\r\x87r!\xef\xff\xd5\x9cr7\xa5'
+2020-12-01 21:21:20,018 - INFO: Usuario Omar: Ha enviado un mensaje a Maria.
+2020-12-01 21:21:20,018 - INFO: Usuario Maria: Está decifrando un mensaje.
+2020-12-01 21:21:20,021 - INFO: Usuario Maria: Mensaje decifrado.
+2020-12-01 21:21:35,976 - INFO: Usuario Maria: Ha escrito un mensaje.
+2020-12-01 21:21:35,976 - INFO: Usuario Maria: Está cifrando un mensaje.
+2020-12-01 21:21:35,977 - INFO: Usuario Maria: Llave pública de Omar en el llavero personal.
+2020-12-01 21:21:35,979 - INFO: Usuario Maria: Mensaje cifrado: b"\x04\xa3\xce\x15;\x13\x80\xae\xe9\x04\xb5\x13\x0f\xff\xd2\xe9$\xd8\xf6\x8e\xac\xf9,+\xed\x91\xc0\xfd\xbf\xe4\xdb\x8a`I\x95\xd8\x96\xd5'\xc4\xe2\x8fOk\x88\x83\x02.\x9b\xe0_\xd5*\x8b\x16\xf2\xec\xf1$\xbblPJL\xde!\xb0\xac0\xe4\xf0J<\xdb\xdc\x18\xc8\xa6\x90!\xc72\x1f^\x02g\xe2\xa3\xdc\xdf\xad/\xd9FmcI~\xbc\xd9\x05{\x16\xe3\x00X"
+2020-12-01 21:21:35,979 - INFO: Usuario Maria: Ha enviado un mensaje a Omar.
+2020-12-01 21:21:35,979 - INFO: Usuario Omar: Está decifrando un mensaje.
+2020-12-01 21:21:35,982 - INFO: Usuario Omar: Mensaje decifrado.
+2020-12-01 21:21:43,834 - INFO: Usuario Omar: Ha escrito un mensaje.
+2020-12-01 21:21:43,835 - INFO: Usuario Omar: Está cifrando un mensaje.
+2020-12-01 21:21:43,835 - INFO: Usuario Omar: Llave pública de Maria en el llavero personal.
+2020-12-01 21:21:43,837 - INFO: Usuario Omar: Mensaje cifrado: b'\x04\xba\x96@\xc8\xe8(\x14a\xb6n3\xad\xbb\xb2~\x7f#\xa6\xcd\xd06A\xb4P#\xfe\xae\xaa[\xd4\xa9R\x19\xb4\xdaB\xbew_\x8d~\x17\xc5M\xfd\x85J\x04\xa1Rv8\x05\xa3\xfc\xfb\xcd\xc1\x07B\x1d\xeb\x12\x9d\x8a\xeb._\x7f{\x99WS\xa3q=\xb8\x930X\x86o\x9a\x94\x88O\x18\r\xcc_G\xc37Q\xfdn\xf6\x83\xbb\x8d\xbd=\xc0\xb0'
+2020-12-01 21:21:43,837 - INFO: Usuario Omar: Ha enviado un mensaje a Maria.
+2020-12-01 21:21:43,837 - INFO: Usuario Maria: Está decifrando un mensaje.
+2020-12-01 21:21:43,840 - INFO: Usuario Maria: Mensaje decifrado.
+2020-12-01 21:22:17,257 - INFO: Usuario Maria: Ha dejado la conversación.
+2020-12-01 21:22:23,968 - INFO: Usuario Omar: Buscando contactos.
+2020-12-01 21:22:31,391 - INFO: Usuario Omar: Buscando contacto.
+2020-12-01 21:22:31,411 - INFO: Usuario Omar: Conectando con 40801.
+2020-12-01 21:22:31,412 - INFO: Usuario Omar: Conectado con puerto 40801.
+2020-12-01 21:22:31,412 - INFO: Usuario Omar: Ha realizado enviado credenciales a 40801.
+2020-12-01 21:22:31,412 - INFO: Usuario Maria: Ha realizado recibido credenciales de 40012.
+2020-12-01 21:22:31,412 - INFO: Usuario Maria: Ingresando llave pública de Omar.
+2020-12-01 21:22:31,413 - INFO: Usuario Maria: Llave pública agregada con éxito.
+2020-12-01 21:22:31,413 - INFO: Usuario Maria: Ha realizado enviado credenciales a 40012.
+2020-12-01 21:22:31,413 - INFO: Usuario Maria: Ha realizado intercambio de llaves con Omar.
+2020-12-01 21:22:31,413 - INFO: Usuario Omar: Ha realizado recibido credenciales de 40801.
+2020-12-01 21:22:31,413 - INFO: Usuario Omar: Ingresando llave pública de Maria.
+2020-12-01 21:22:31,413 - INFO: Usuario Omar: Llave pública agregada con éxito.
+2020-12-01 21:22:31,414 - INFO: Usuario Omar: Ha realizado intercambio de llaves con Maria.
+2020-12-01 21:22:33,958 - INFO: Usuario Omar: Ha escrito un mensaje.
+2020-12-01 21:22:33,959 - INFO: Usuario Omar: Está cifrando un mensaje.
+2020-12-01 21:22:33,959 - INFO: Usuario Omar: Llave pública de Maria en el llavero personal.
+2020-12-01 21:22:33,962 - INFO: Usuario Omar: Mensaje cifrado: b'\x04\xc1\xef}\xe4\x1a[\xb7p\x9b\x16Z\x83~\x9c\xd8\xcf\xb6\x81b\xbd\xb8\x16\x9f\x03W\x02++\xed\x86\x18\x82\x86\xf4^\xab\xbd \xe8@I\xf9\x97\x195\xf3\x91\xf8|\x86\xa3@\xe1\xce\xc7\xa0S(p\x0cD|="\x1aE\x1cr"\x9e\xd1$\xf1.x\x8a\xeb\xa9d\xe4]\xbb:\xda\x18\xad\x88\x0e\xa3\xfb+q|\xfd\xf1\x810"\xbdz'
+2020-12-01 21:22:33,962 - INFO: Usuario Omar: Ha enviado un mensaje a Maria.
+2020-12-01 21:22:33,962 - INFO: Usuario Maria: Está decifrando un mensaje.
+2020-12-01 21:22:33,965 - INFO: Usuario Maria: Mensaje decifrado.
+2020-12-01 21:22:43,271 - INFO: Usuario Maria: Ha escrito un mensaje.
+2020-12-01 21:22:43,272 - INFO: Usuario Maria: Está cifrando un mensaje.
+2020-12-01 21:22:43,272 - INFO: Usuario Maria: Llave pública de Omar en el llavero personal.
+2020-12-01 21:22:43,274 - INFO: Usuario Maria: Mensaje cifrado: b'\x04\xde\xf3\x88\x98\xa0\x86nf\xe4\xb0\xc8y\xd0\x8fT\x92\xf9B\x06\x8e1\xce\xe4\xbb\xa7\xa8\x00Z7^\xe9\xa4\tU\xa9\x94!P\x8b\xe7\xbd\xa0U\x04!\x8e\xd8\xaa\xe5_\x12)\x9d\xa3\x05@o\xac\x11\x0f\xf3<J\xab\xe0)Zf\xecK5\xfaX\\_\xc2\xaaF\xd2e\xda\x16k\xd7\xe4z\xd0\xb6\x1b6\xaa\x18\x83U\xcb\x15\x05\r\x11\xd8'
+2020-12-01 21:22:43,274 - INFO: Usuario Maria: Ha enviado un mensaje a Omar.
+2020-12-01 21:22:43,275 - INFO: Usuario Omar: Está decifrando un mensaje.
+2020-12-01 21:22:43,277 - INFO: Usuario Omar: Mensaje decifrado.
+2020-12-01 21:27:50,769 - INFO: Usuario Omar: Ha dejado la conversación.

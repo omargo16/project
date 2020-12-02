@@ -1,8 +1,9 @@
-import logging
-logging.basicConfig(filename="chatter.log", level=logging.INFO, format="%(asctime)s - %(levelname)s: %(message)s")
 import subprocess as sub
+from threading import Thread
 from my_socket import MySocket
 from public_key import PublicKey
+import logging
+logging.basicConfig(filename="chatter.log", level=logging.INFO, format="%(asctime)s - %(levelname)s: %(message)s")
 
 
 class Chatter:
@@ -52,7 +53,10 @@ class Chatter:
             print("E: Ha ocurrido un error con la llave privada. Vuelva a intentarlo.")
 
     def online(self):
+        # connection = Thread(target=self.__socket.set_connection, daemon=True)
         self.__socket.set_connection()
+        # connection.start()
+        # connection.join()
 
     def search(self, port=None):
         host = self.__socket.get_host()
@@ -80,6 +84,10 @@ if __name__ == "__main__":
     print("¡Bienvenido!")
     nickname = input("Ingrese su nombre de usuario: ")
     user = Chatter(nickname)
+    # user.online()
+    connection = Thread(target=user.online, daemon=True)
+    connection.start()
+    # def menu():
     while True:
         print("Acciones:\n  1) Conectarse.\n  2) Buscar contactos.\n  3) Salir.")
         action = input("¿Que accion desea realizar? ")

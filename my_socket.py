@@ -2,7 +2,6 @@ import socket
 from threading import Thread
 import subprocess as sub
 import logging
-
 _logger = logging.getLogger(__name__)
 
 
@@ -64,9 +63,9 @@ class MySocket:
                 _logger.info("Usuario %s: Conectado con puerto %s." % (self._name, port))
                 self_credentials = ("%s:%s" % (self.__user._name, self.__user.get_public_key()))
                 skt.send(self_credentials.encode())
-                _logger.info("Usuario %s: Ha realizado enviado credenciales a %s." % (self._name, port))
+                _logger.info("Usuario %s: Ha realizado envío de credenciales a %s." % (self._name, port))
                 credentials = skt.recv(1024)
-                _logger.info("Usuario %s: Ha realizado recibido credenciales de %s." % (self._name, port))
+                _logger.info("Usuario %s: Ha realizado recibo de credenciales de %s." % (self._name, port))
                 self.__user.add_key(credentials)
                 friend = credentials.decode().split(":")[0]
                 _logger.info("Usuario %s: Ha realizado intercambio de llaves con %s." % (self._name, friend))
@@ -95,11 +94,11 @@ class MySocket:
     def _start_chat(self, connection, address):
         with connection:
             credentials = connection.recv(1024)
-            _logger.info("Usuario %s: Ha realizado recibido credenciales de %s." % (self._name, address[1]))
+            _logger.info("Usuario %s: Ha realizado recibo de credenciales de %s." % (self._name, address[1]))
             self.__user.add_key(credentials)
             self_credentials = ("%s:%s" % (self.__user._name, self.__user.get_public_key()))
             connection.send(self_credentials.encode())
-            _logger.info("Usuario %s: Ha realizado enviado credenciales a %s." % (self._name, address[1]))
+            _logger.info("Usuario %s: Ha realizado envío de credenciales a %s." % (self._name, address[1]))
             friend = credentials.decode().split(":")[0]
             _logger.info("Usuario %s: Ha realizado intercambio de llaves con %s." % (self._name, friend))
             print("Tiene una comunicacion con: %s. Si desea abandonar la conversacion esciba EXIT." % friend)
