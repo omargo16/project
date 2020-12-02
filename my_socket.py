@@ -31,9 +31,10 @@ class MySocket:
                 skt.listen()
                 _logger.info("Usuario %s: Sesión establecida, esperando comunicación." % self._name)
                 print("Conexión establecida, esperando comunicación.")
-                conn, addr = skt.accept()
-                chat = Thread(target=self._start_chat, args=(conn, addr))
-                chat.start()
+                while True:
+                    conn, addr = skt.accept()
+                    chat = Thread(target=self._start_chat, args=(conn, addr))
+                    chat.start()
         except Exception as error:
             _logger.error("Usuario %s: Error al tratar de conectar socket\nTraceback:\n %s." % (self._name, error))
             print("Ha ocurrido un error. Vuelva a intentarlo.\nTraceback:\n%s" % error)
