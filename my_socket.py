@@ -2,7 +2,6 @@ import socket
 from threading import Thread
 import subprocess as sub
 import logging
-
 _logger = logging.getLogger(__name__)
 
 
@@ -31,9 +30,10 @@ class MySocket:
                 skt.listen()
                 _logger.info("Usuario %s: Sesión establecida, esperando comunicación." % self._name)
                 print("Conexión establecida, esperando comunicación.")
-                conn, addr = skt.accept()
-                chat = Thread(target=self._start_chat, args=(conn, addr))
-                chat.start()
+                while True:
+                    conn, addr = skt.accept()
+                    chat = Thread(target=self._start_chat, args=(conn, addr))
+                    chat.start()
         except Exception as error:
             _logger.error("Usuario %s: Error al tratar de conectar socket\nTraceback:\n %s." % (self._name, error))
             print("Ha ocurrido un error. Vuelva a intentarlo.\nTraceback:\n%s" % error)
@@ -63,9 +63,9 @@ class MySocket:
                 _logger.info("Usuario %s: Conectado con puerto %s." % (self._name, port))
                 self_credentials = ("%s:%s" % (self.__user._name, self.__user.get_public_key()))
                 skt.send(self_credentials.encode())
-                _logger.info("Usuario %s: Ha realizado enviado credenciales a %s." % (self._name, port))
+                _logger.info("Usuario %s: Ha realizado envío de credenciales a %s." % (self._name, port))
                 credentials = skt.recv(1024)
-                _logger.info("Usuario %s: Ha realizado recibido credenciales de %s." % (self._name, port))
+                _logger.info("Usuario %s: Ha realizado recibo de credenciales de %s." % (self._name, port))
                 self.__user.add_key(credentials)
                 friend = credentials.decode().split(":")[0]
                 _logger.info("Usuario %s: Ha realizado intercambio de llaves con %s." % (self._name, friend))
@@ -94,11 +94,11 @@ class MySocket:
     def _start_chat(self, connection, address):
         with connection:
             credentials = connection.recv(1024)
-            _logger.info("Usuario %s: Ha realizado recibido credenciales de %s." % (self._name, address[1]))
+            _logger.info("Usuario %s: Ha realizado recibo de credenciales de %s." % (self._name, address[1]))
             self.__user.add_key(credentials)
             self_credentials = ("%s:%s" % (self.__user._name, self.__user.get_public_key()))
             connection.send(self_credentials.encode())
-            _logger.info("Usuario %s: Ha realizado enviado credenciales a %s." % (self._name, address[1]))
+            _logger.info("Usuario %s: Ha realizado envío de credenciales a %s." % (self._name, address[1]))
             friend = credentials.decode().split(":")[0]
             _logger.info("Usuario %s: Ha realizado intercambio de llaves con %s." % (self._name, friend))
             print("Tiene una comunicacion con: %s. Si desea abandonar la conversacion esciba EXIT." % friend)
